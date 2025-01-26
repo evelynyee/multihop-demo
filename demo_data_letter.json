@@ -1,0 +1,3178 @@
+[
+  {
+    "_id": "5ae65c925542992ae0d162f9_0",
+    "question": "What is the last letter of the last name of the producer of the 1994 American animated epic musical film which Mel Shaw animated?",
+    "answer": "n",
+    "previous_question": "Who was the producer of the 1994 American animated epic musical film which Mel Shaw animated?",
+    "previous_answer": "Don Hahn",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "What is the 1994 American animated epic musical film which Mel Shaw animated?",
+        "answer": "The Lion King",
+        "paragraph_support_title": "Mel Shaw"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who was the producer of The Lion King?",
+        "answer": "Don Hahn",
+        "paragraph_support_title": "The Lion King"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the last name of Don Hahn?",
+        "answer": "n",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Don Hahn?",
+            "answer": "Hahn",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Hahn?",
+            "answer": "N",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Mel Shaw",
+        [
+          "Mel Shaw (December 19, 1914 \u2013 November 22, 2012) was an American animator, design artist, writer, and artist.",
+          " Shaw was involved in the animation, story design, and visual development of numerous Disney animated films, beginning with \"Bambi\", which was released in 1942.",
+          " His other animated film credits, usually involving animation design or the story, included \"The Rescuers\" in 1977, \"The Fox and the Hound\" in 1981, \"The Black Cauldron\" in 1985, \"The Great Mouse Detective\" in 1986, \"Beauty and the Beast\" in 1991, and \"The Lion King\" in 1994.",
+          " He was named a Disney Legend in 2004 for his contributions to the Walt Disney Company."
+        ]
+      ],
+      [
+        "The Lion King",
+        [
+          "The Lion King is a 1994 American animated epic musical film produced by Walt Disney Feature Animation and released by Walt Disney Pictures.",
+          " It is the 32nd Disney animated feature film, and the fifth animated film produced during a period known as the Disney Renaissance.",
+          " \"The Lion King\" was directed by Roger Allers and Rob Minkoff, produced by Don Hahn, and has a screenplay credited to Irene Mecchi, Jonathan Roberts, and Linda Woolverton.",
+          " Its original songs were written by composer Elton John and lyricist Tim Rice, and original scores were written by Hans Zimmer.",
+          " The film features an ensemble voice cast that includes Matthew Broderick, James Earl Jones, Jeremy Irons, Jonathan Taylor Thomas, Moira Kelly, Nathan Lane, Ernie Sabella, Rowan Atkinson, Robert Guillaume, Madge Sinclair, Whoopi Goldberg, Cheech Marin, and Jim Cummings.",
+          " The story takes place in a kingdom of lions in Africa and was influenced by William Shakespeare's \"Hamlet\"."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the last name of #Name?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "the producer of the 1994 American animated epic musical film which Mel Shaw animated",
+    "ques_on_last_hop": "What is the last letter of the last name of the producer of The Lion King?"
+  },
+  {
+    "_id": "5ae686535542996d980e7bdc_0",
+    "question": "What is the last letter of the first name of the former member of Beatles married the starring actress of The Black Belly of the Tarantula ?",
+    "answer": "o",
+    "previous_question": "The Black Belly of the Tarantula starred an actress who married what former member of the Beatles?",
+    "previous_answer": "Ringo Starr",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "The Black Belly of the Tarantula starred which actress?",
+        "answer": "Black Belly of the Tarantula",
+        "paragraph_support_title": "Black Belly of the Tarantula"
+      },
+      {
+        "sub_id": "2",
+        "question": "Barbara Bach married what former member of the Beatles?",
+        "answer": "Ringo Starr",
+        "paragraph_support_title": "Barbara Bach"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the first name of Ringo Starr?",
+        "answer": "o",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Ringo Starr?",
+            "answer": "Ringo",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Ringo?",
+            "answer": "O",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Black Belly of the Tarantula",
+        [
+          "The Black Belly of the Tarantula is a 1971 Italian giallo film directed by Paolo Cavara.",
+          " It is one of many Italian giallo films to be inspired by Dario Argento's successful debut thriller \"The Bird with the Crystal Plumage\".",
+          " The film was shot on location in Rome, Italy in 1970.",
+          " It starred Giancarlo Giannini, Barbara Bouchet and Barbara Bach.",
+          " Ennio Morricone did the music score for the film.",
+          " Though fairly obscure for many years the film has recently made a comeback thanks to the rising fan base for the giallo genre.",
+          " The film has gained much praise from the horror community, one writer at Horrorview.com cited it as the best giallo ever made.",
+          " Blue Underground Entertainment released the film on DVD in 2006."
+        ]
+      ],
+      [
+        "Barbara Bach",
+        [
+          "Barbara Bach (born Barbara Goldbach; August 27, 1947) is an American actress and model who played the Bond girl Anya Amasova in the James Bond film \"The Spy Who Loved Me\" (1977) as well as the spy Maritza Petrovi\u0107 in \"Force 10 from Navarone\" (1978).",
+          " She married Ringo Starr, former member of the Beatles, in 1981."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the first name of #Name?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "the former member of Beatles married the starring actress of The Black Belly of the Tarantula ",
+    "ques_on_last_hop": "What is the last letter of the first name of the former member of the Beatles whom Barbara Bach married?"
+  },
+  {
+    "_id": "5ae6828f5542996d980e7bb9_0",
+    "question": "What is the last letter of the first name of the person who designed and built the park which links Salisbury Woodland Gardens with a zoo?",
+    "answer": "s",
+    "previous_question": "Salisbury Woodland Gardens links a zoo with a park designed and built under the watchful eye of who?",
+    "previous_answer": "Thomas Mawson",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Salisbury Woodland Gardens links a zoo with which park?",
+        "answer": "Stanley Park, Blackpool",
+        "paragraph_support_title": "Salisbury Woodland Gardens, Blackpool"
+      },
+      {
+        "sub_id": "2",
+        "question": "Stanley Park is designed and built under the watchful eye of who?",
+        "answer": "Thomas Mawson",
+        "paragraph_support_title": "Stanley Park, Blackpool"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the first name of Thomas Mawson?",
+        "answer": "s",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Thomas Mawson?",
+            "answer": "Thomas",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Thomas?",
+            "answer": "S",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Stanley Park, Blackpool",
+        [
+          "Stanley Park is a public park in the town of Blackpool on the Fylde coast in Lancashire, England.",
+          " It is the town's primary park and covers an area of approximately 104 ha .",
+          " The park was designed to include significant sporting provisions, along with formal gardens, a boating lake and woodland area.",
+          " It was designed and built in the 1920s, under the eye of Thomas Mawson."
+        ]
+      ],
+      [
+        "Salisbury Woodland Gardens, Blackpool",
+        [
+          "Salisbury Woodland Gardens is an open space located in the east of Blackpool, flanked by East Park Drive and Woodside Drive and linking Blackpool Zoo with Stanley Park.",
+          " Known simply as the 'Woodland Gardens' to local people, the site was acquired in 1924 by Blackpool Corporation and was originally developed as a shelter belt for the adjacent Stanley Park Golf Course.",
+          " The gardens were later developed in the 1940s as an arboretum and public open space for all to enjoy.",
+          " It was renovated in 1967 by Peter Perry and his 'Flying Squad (see below).",
+          " Popular once as a wedding photograph location, the site went into decline during the 1990s.",
+          " The Council's Ranger Service manage and protect the gardens which they took over in September 2006 and have been funding and undertaking the restoration of the woodland."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the first name of #Name?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "the person who designed and built the park which links Salisbury Woodland Gardens with a zoo",
+    "ques_on_last_hop": "What is the last letter of the first name of the person under whose watchful eye Stanley Park is designed and built?"
+  },
+  {
+    "_id": "5a81dacc55429926c1cdada0_0",
+    "question": "What is the first letter of the first name of the author of the play that was adapted into a film and featured the orchestral arrangement Suite from Henry V in lowercase?",
+    "answer": "w",
+    "previous_question": "Who is the author of the play that was adapted into a film and featured the orchestral arrangement Suite from Henry V?",
+    "previous_answer": "William Shakespeare",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "which play that was adapted into a film and featured the orchestral arrangement Suite from Henry V?",
+        "answer": "Henry V (1944 film)",
+        "paragraph_support_title": "Suite from Henry V"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the author of Henry V?",
+        "answer": "William Shakespeare",
+        "paragraph_support_title": "Henry V (1944 film)"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the first name of William Shakespeare in lowercase?",
+        "answer": "w",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of William Shakespeare?",
+            "answer": "William",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of William?",
+            "answer": "W",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Suite from Henry V",
+        [
+          "Suite from Henry V is a 1963 orchestral arrangement of William Walton's musical score from the 1944 film \"Henry V\".",
+          " The suite, arranged by Muir Mathieson, is in five movements, although the second and fourth movements had already appeared in string arrangement form in Walton's own Two Pieces for Strings from Henry V."
+        ]
+      ],
+      [
+        "Henry V (1944 film)",
+        [
+          "Henry V is a 1944 British Technicolor film adaptation of William Shakespeare's play of the same name.",
+          " The on-screen title is The Chronicle History of King Henry the Fift with His Battell Fought at Agin Court in France (the title of the 1600 quarto edition of the play).",
+          " It stars Laurence Olivier, who also directed.",
+          " The play was adapted for the screen by Olivier, Dallas Bower, and Alan Dent.",
+          " The score is by William Walton."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the first name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the author of the play that was adapted into a film and featured the orchestral arrangement Suite from Henry V",
+    "ques_on_last_hop": "What is the first letter of the first name of the author of Henry V in lowercase?"
+  },
+  {
+    "_id": "5a722fae55429971e9dc9343_0",
+    "question": "What is the first letter of the first name of the daughter of the Irish entertainer in the girl band Maxi, Dick and Twink in lowercase?",
+    "answer": "c",
+    "previous_question": "What is the name of the daughter of the Irish entertainer in the girl band Maxi, Dick and Twink?",
+    "previous_answer": "Chlo\u00eb Alexandra Adele Emily Agnew",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "which Irish entertainer is in the girl band Maxi, Dick and Twink?",
+        "answer": "Adele King",
+        "paragraph_support_title": "Adele King"
+      },
+      {
+        "sub_id": "2",
+        "question": "What is the name of the daughter of Adele King?",
+        "answer": "Chlo\u00eb Alexandra Adele Emily Agnew",
+        "paragraph_support_title": "Chlo\u00eb Agnew"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the first name of Chlo\u00eb Alexandra Adele Emily Agnew in lowercase?",
+        "answer": "c",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Chlo\u00eb Alexandra Adele Emily Agnew?",
+            "answer": "Chlo\u00eb",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of Chlo\u00eb?",
+            "answer": "C",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Adele King",
+        [
+          "Ad\u00e8le King (born Ad\u00e8le Condron-King, 4 April 1951) is an Irish entertainer better known as Twink from her time as a member of a group called Maxi, Dick and Twink which was a girl band in Ireland in the late 1960s and 1970s.",
+          " She is the mother of singer Chlo\u00eb Agnew from the group Celtic Woman."
+        ]
+      ],
+      [
+        "Chlo\u00eb Agnew",
+        [
+          "Chlo\u00eb Alexandra Adele Emily Agnew (born 9 June 1989 in Dublin, Ireland) is an Irish singer and songwriter who is an original former member of the Celtic music group Celtic Woman, as well as its youngest member.",
+          " She comes from Knocklyon, County Dublin where she lived with her mother Adele \"Twink\" King and younger sister, Naomi.",
+          " She sings in English, Irish, Latin, Italian, and German.",
+          " Agnew has a soprano vocal range."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the first name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the daughter of the Irish entertainer in the girl band Maxi, Dick and Twink",
+    "ques_on_last_hop": "What is the first letter of the first name of the name of the daughter of Adele King in lowercase?"
+  },
+  {
+    "_id": "895740ae0bb011ebab90acde48001122_0",
+    "question": "What is the last letter of the first name of William Paulet, 4Th Marquess Of Winchester's paternal grandmother?",
+    "answer": "h",
+    "previous_question": "Who is William Paulet, 4Th Marquess Of Winchester's paternal grandmother?",
+    "previous_answer": "Elizabeth Willoughby",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the father of William Paulet, 4Th Marquess Of Winchester?",
+        "answer": "William Paulet, 3rd Marquess of Winchester",
+        "paragraph_support_title": "William Paulet, 4th Marquess of Winchester"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the mother of William Paulet, 3Rd Marquess Of Winchester?",
+        "answer": "Elizabeth Willoughby",
+        "paragraph_support_title": "William Paulet, 3rd Marquess of Winchester"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the first name of Elizabeth Willoughby?",
+        "answer": "h",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Elizabeth Willoughby?",
+            "answer": "Elizabeth",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Elizabeth?",
+            "answer": "h",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "William Paulet, 3rd Marquess of Winchester",
+        [
+          "William Paulet, 3rd Marquess of Winchester( 1532 \u2013 24 November 1598) was an English nobleman, the son of John Paulet, 2nd Marquess of Winchester and his first wife, Elizabeth Willoughby.",
+          "His maternal grandfather was Robert Willoughby, 2nd Baron Willoughby de Broke.",
+          "He was made a Knight of the Bath at the coronation of Mary I on 30 November 1553."
+        ]
+      ],
+      [
+        "William Paulet, 4th Marquess of Winchester",
+        [
+          "William Paulet, 4th Marquess of Winchester( bef. 1560 \u2013 4 February 1629) was an English nobleman, the son of William Paulet, 3rd Marquess of Winchester and Anne or Agnes Howard.",
+          "He was styled Lord St. John from 1576 to 1598.",
+          "He was summoned to Parliament on 16 January 1581 in his father's barony as Lord St. John.",
+          "On 24 November 1598, he succeeded his father as 4th Marquess of Winchester.",
+          "Paulet experienced great financial difficulties arising from his magnificent style of living and his lavish entertainment of Elizabeth I at Basing House."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the first name of #Name?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "William Paulet, 4Th Marquess Of Winchester's paternal grandmother",
+    "ques_on_last_hop": "What is the last letter of the first name of the mother of William Paulet, 3Rd Marquess Of Winchester?"
+  },
+  {
+    "_id": "642b190c0bda11eba7f7acde48001122_0",
+    "question": "What is the last letter of the first name of the spouse of the director of film The Invisible Menace?",
+    "answer": "n",
+    "previous_question": "Who is the spouse of the director of the film The Invisible Menace?",
+    "previous_answer": "Maureen O'Sullivan",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the director of The Invisible Menace?",
+        "answer": "John Farrow",
+        "paragraph_support_title": "The Invisible Menace"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the spouse of John Farrow?",
+        "answer": "Maureen O'Sullivan",
+        "paragraph_support_title": "John Farrow"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the first name of Maureen O'Sullivan?",
+        "answer": "n",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Maureen O'Sullivan?",
+            "answer": "Maureen",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Maureen?",
+            "answer": "n",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "The Invisible Menace",
+        [
+          "The Invisible Menace is a 1938 American mystery film directed by John Farrow and starring Boris Karloff.",
+          "It was also known as Without Warning."
+        ]
+      ],
+      [
+        "John Farrow",
+        [
+          "John Villiers Farrow, KGCHS (10 February 190427 January 1963) was an Australian-born American film director, producer and screenwriter.",
+          "In 1957, he won the Academy Award for Best Writing/Best Screenplay for \"Around the World in Eighty Days\" and in 1942, he was nominated as Best Director for \"Wake Island\".",
+          "He had seven children by his wife, actress Maureen O'Sullivan, including actress Mia Farrow."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the first name of #Name?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "the spouse of the director of film The Invisible Menace",
+    "ques_on_last_hop": "What is the last letter of the first name of the spouse of John Farrow?"
+  },
+  {
+    "_id": "6b7876160bdd11eba7f7acde48001122_0",
+    "question": "What is the last letter of the first name of the father of the director of film Dino Ki Dulhaniya?",
+    "answer": "d",
+    "previous_question": "Who is the father of the director of the film Dino Ki Dulhaniya?",
+    "previous_answer": "Javed Jabbar",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the director of Dino Ki Dulhaniya?",
+        "answer": "Mehreen Jabbar",
+        "paragraph_support_title": "Dino Ki Dulhaniya"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the father of Mehreen Jabbar?",
+        "answer": "Javed Jabbar",
+        "paragraph_support_title": "Mehreen Jabbar"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the first name of Javed Jabbar?",
+        "answer": "d",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Javed Jabbar?",
+            "answer": "Javed",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Javed?",
+            "answer": "d",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Mehreen Jabbar",
+        [
+          "Mehreen Jabbar (Urdu: \u0645 \ufba9 \u0631\u064a\u0646 \u062c\u0628\u0627\u0631) (b. 29 December 1971, is a Pakistani film and television director and producer based in New York City.",
+          "She is a daughter of the Pakistani media-person Javed Jabbar.",
+          "She is also the niece of Beo Zafar."
+        ]
+      ],
+      [
+        "Dino Ki Dulhaniya",
+        [
+          "Dino Ki Dulhaniya (English: \"Dino's Bride\") is a 2018 Pakistani tele-film directed by Mehreen Jabbar, written by Muhammad Younis Butt and produced by Abdullah Kadwani and Asad Qureshi under the 7th Sky Entertainment banner.",
+          "The tele-film stars Feroze Khan and Sana Javed in the lead roles.",
+          "The film was released in June 2018 as part of Geo Entertainment's Eid programming."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the first name of #Name?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "the father of the director of film Dino Ki Dulhaniya",
+    "ques_on_last_hop": "What is the last letter of the first name of the father of Mehreen Jabbar?"
+  },
+  {
+    "_id": "bc702d440baf11ebab90acde48001122_0",
+    "question": "What is the last letter of the first name of the paternal grandfather of Ahmose-Henutemipet?",
+    "answer": "e",
+    "previous_question": "Who is the paternal grandfather of Ahmose-Henutemipet?",
+    "previous_answer": "Senakhtenre Ahmose",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the father of Ahmose-Henutemipet?",
+        "answer": "Seqenenre Tao",
+        "paragraph_support_title": "Ahmose-Henutemipet"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the father of Seqenenre Tao?",
+        "answer": "Senakhtenre Ahmose",
+        "paragraph_support_title": "Seqenenre Tao"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the first name of Senakhtenre Ahmose?",
+        "answer": "e",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Senakhtenre Ahmose?",
+            "answer": "Senakhtenre",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Senakhtenre?",
+            "answer": "e",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Seqenenre Tao",
+        [
+          "Seqenenre Tao (also Seqenera Djehuty-aa or Sekenenra Taa), called 'the Brave', ruled over the last of the local kingdoms of the Theban region of Egypt in the Seventeenth Dynasty during the Second Intermediate Period.",
+          "He probably was the son and successor to Senakhtenre Ahmose and Queen Tetisheri.",
+          "The dates of his reign are uncertain, but he may have risen to power in the decade ending in 1560 BC or in 1558 BC (based on the probable accession date of his son,",
+          "Ahmose I, the first ruler of the eighteenth dynasty, see Egyptian chronology).",
+          "With his queen, Ahhotep I, Seqenenre Tao fathered two pharaohs, Kamose, his immediate successor who was the last pharaoh of the seventeenth dynasty, and Ahmose I who, following a regency by his mother, was the first pharaoh of the eighteenth.",
+          "Seqenenre Tao is credited with starting the opening moves in a war of revanchism against Hyksos incursions into Egypt, which saw the country completely liberated during the reign of his son Ahmose I."
+        ]
+      ],
+      [
+        "Ahmose-Henutemipet",
+        [
+          "Ahmose-Henutemipet was a princess of the late seventeenth dynasty of Egypt.",
+          "She was a daughter of Pharaoh Seqenenre Tao and probably",
+          "Queen Ahhotep I. She was the sister of",
+          "Ahmose I. She bore the titles \"King's Daughter\" and \"King's Sister.\""
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the first name of #Name?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "the paternal grandfather of Ahmose-Henutemipet",
+    "ques_on_last_hop": "What is the last letter of the first name of the father of Seqenenre Tao?"
+  },
+  {
+    "_id": "c2afbfa60bd911eba7f7acde48001122_0",
+    "question": "What is the first letter of the first name of the spouse of the director of film The Belles Of St. Trinian'S in lowercase?",
+    "answer": "b",
+    "previous_question": "Who is the spouse of the director of film The Belles Of St. Trinian'S?",
+    "previous_answer": "Bernadette O'Farrell",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the director of The Belles Of St Trinian'S?",
+        "answer": "Frank Launder",
+        "paragraph_support_title": "The Belles of St. Trinian's"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the spouse of Frank Launder?",
+        "answer": "Bernadette O'Farrell",
+        "paragraph_support_title": "Frank Launder"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the first name of Bernadette O'Farrell in lowercase?",
+        "answer": "b",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Bernadette O'Farrell?",
+            "answer": "Bernadette",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of Bernadette?",
+            "answer": "b",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "The Belles of St. Trinian's",
+        [
+          "The Belles of St Trinian's is a British comedy film set in the fictional St Trinian's school, released in 1954.",
+          "It and its sequels were inspired by British cartoonist Ronald Searle.",
+          "Directed by Frank Launder and written by Launder and Sidney Gilliat, it was the first of a series of four films.",
+          "Alastair Sim stars in a dual role as the headmistress Miss Millicent Fritton and her twin brother Clarence Fritton."
+        ]
+      ],
+      [
+        "Frank Launder",
+        [
+          "Frank Launder (28 January 1906 \u2013 23 February 1997) was a British writer, film director and producer, who made more than 40 films, many of them in collaboration with Sidney Gilliat.",
+          "He was born in Hitchin, Hertfordshire, England and worked briefly as a clerk before becoming an actor and then a playwright.",
+          "He began working as a screenwriter on British films in the 1930s, contributing the original story for the classic Will Hay comedy \"",
+          "Oh, Mr Porter!\"",
+          "(1937).",
+          "After writing a number of screenplays with Gilliat, including \"The Lady Vanishes\" (1938) for Alfred Hitchcock, and \"Night Train to Munich\" for Carol Reed; the two men wrote and directed the wartime drama \"Millions Like Us\" (1943).",
+          "After founding their own production company Individual Pictures, they produced a number of memorable dramas and thrillers including",
+          "\"I See a Dark Stranger\" (1945) and \"Green for Danger\" (1946), but were best known for their comedies including \"The Happiest Days of Your Life\" (1950) and most famously, the St Trinians series, based on Ronald Searle's cartoons set in an anarchic girls school.",
+          "He was married to actress Bernadette O'Farrell from 1950 until his death in Monaco.",
+          "The couple had two children."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the first name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the spouse of the director of film The Belles Of St. Trinian'S",
+    "ques_on_last_hop": "What is the first letter of the first name of the spouse of Frank Launder in lowercase?"
+  },
+  {
+    "_id": "87289e460bdc11eba7f7acde48001122_0",
+    "question": "What is the first letter of the first name of the father of the director of film American Woman (2018 Film) in lowercase?",
+    "answer": "r",
+    "previous_question": "Who is the father of the director of the film American Woman (2018 Film)?",
+    "previous_answer": "Ridley Scott",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the director of American Woman?",
+        "answer": "Jake Scott",
+        "paragraph_support_title": "American Woman (2018 film)"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the father of Jake Scott?",
+        "answer": "Ridley Scott",
+        "paragraph_support_title": "Jake Scott (director)"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the first name of Ridley Scott in lowercase?",
+        "answer": "r",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Ridley Scott?",
+            "answer": "Ridley",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of Ridley?",
+            "answer": "r",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Jake Scott (director)",
+        [
+          "Jake Scott (born 1965) is an English film director who works primarily in the field of music videos.",
+          "His father is film director Ridley Scott."
+        ]
+      ],
+      [
+        "American Woman (2018 film)",
+        [
+          "American Woman is a 2018 English-language drama film directed by Jake Scott, with the screenplay by Brad Ingelsby, and starring Sienna Miller, Aaron Paul and Christina Hendricks.",
+          "Set over a period of eleven years, its plot follows a single mother who is faced with raising her grandson after her daughter goes missing under mysterious circumstances.",
+          "It had its world premiere at the Toronto International Film Festival on September 9, 2018.",
+          "It was given a limited release on June 14, 2019, by Roadside Attractions and Vertical Entertainment, and has received generally favorable critical reviews."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the first name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the father of the director of film American Woman (2018 Film)",
+    "ques_on_last_hop": "What is the first letter of the first name of the father of Jake Scott in lowercase?"
+  },
+  {
+    "_id": "ded103fe0baf11ebab90acde48001122_0",
+    "question": "What is the first letter of the first name of the maternal grandfather of Vyacheslav Yaroslavich in lowercase?",
+    "answer": "o",
+    "previous_question": "Who is the maternal grandfather of Vyacheslav Yaroslavich?",
+    "previous_answer": "Olof Sk\u00f6tkonung",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the mother of Vyacheslav Yaroslavich?",
+        "answer": "Ingegerd Olofsdotter of Sweden",
+        "paragraph_support_title": "Vyacheslav Yaroslavich"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the father of Ingegerd Olofsdotter Of Sweden?",
+        "answer": "Olof Sk\u00f6tkonung",
+        "paragraph_support_title": "Ingegerd Olofsdotter of Sweden"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the first name of Olof Sk\u00f6tkonung in lowercase?",
+        "answer": "o",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Olof Sk\u00f6tkonung?",
+            "answer": "Olof",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of Olof?",
+            "answer": "o",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Vyacheslav Yaroslavich",
+        [
+          "Vyacheslav Yaroslavich or Viacheslav Yaroslavich was the Prince of Smolensk from 1054 until his death in 1059.",
+          "He was son of Yaroslav the Wise and Ingegerd Olofsdotter of Sweden.",
+          "About Vyacheslav, there is almost no information.",
+          "Some documents point out the fact of him having a son, Boris Vyacheslavich, who challenged Vsevolod I sometime in 1077- 1078."
+        ]
+      ],
+      [
+        "Ingegerd Olofsdotter of Sweden",
+        [
+          "Ingegerd Olofsdotter of Sweden, also known as Irene, Anna and Saint Anna (1001 \u2013 10 February 1050), was a Swedish princess and a Grand Princess of Kiev.",
+          "She was the daughter of Swedish King Olof Sk\u00f6tkonung and Estrid of the Obotrites and the consort of Yaroslav I the Wise of Kiev.",
+          "Ingegerd or Saint Anna is often confused with the mother of Saint Vladimir \u201cthe Enlightener\u201d of the Rus.",
+          "This is mainly because Ingegerd and Yaroslav also had a son named Vladimir.",
+          "However, Saint Vladimir was the father of Ingegerd\u2019s husband",
+          "Yaroslav I \u201cthe Wise\u201d, thus making her Saint Vladimir\u2019s daughter-in-law.",
+          "Saint Vladimir was the son of Sviatoslav and Malusha."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the first name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the maternal grandfather of Vyacheslav Yaroslavich",
+    "ques_on_last_hop": "What is the first letter of the first name of the father of Ingegerd Olofsdotter Of Sweden in lowercase?"
+  },
+  {
+    "_id": "10cd47420baf11ebab90acde48001122_0",
+    "question": "What is the first letter of the first name of Joseph-Andr\u00e9 Taschereau's paternal grandfather in lowercase?",
+    "answer": "g",
+    "previous_question": "Who is Joseph-Andr\u00e9 Taschereau's paternal grandfather?",
+    "previous_answer": "Gabriel-Elz\u00e9ar Taschereau",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the father of Joseph-Andr\u00e9 Taschereau?",
+        "answer": "Thomas-Pierre-Joseph Taschereau",
+        "paragraph_support_title": "Joseph-Andr\u00e9 Taschereau"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the father of Thomas-Pierre-Joseph Taschereau?",
+        "answer": "Gabriel-Elz\u00e9ar Taschereau",
+        "paragraph_support_title": "Thomas-Pierre-Joseph Taschereau"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the first name of Gabriel-Elz\u00e9ar Taschereau in lowercase?",
+        "answer": "g",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Gabriel-Elz\u00e9ar Taschereau?",
+            "answer": "Gabriel-Elz\u00e9ar",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of Gabriel-Elz\u00e9ar?",
+            "answer": "g",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Thomas-Pierre-Joseph Taschereau",
+        [
+          "Thomas-Pierre-Joseph Taschereau was born in Quebec April 19, 1775, a son of Gabriel-Elz\u00e9ar Taschereau, the patriarch of this important family, and his first wife, Marie-Louise-\u00c9lizabeth Bazin.",
+          "He studied at the Petit S\u00e9minaire of Quebec from 1784 to 1792.",
+          "He embarked on a military career and became a lieutenant in 1797.",
+          "Demobilized in 1802, he went into business and set up a distillery with his brother Jean-Thomas Taschereau, in the Sainte-Marie seigneury.",
+          "He married Fran\u00e7oise Boucher of Bru\u00e8re de Montarville in 1805.",
+          "He continued the business at this property until the War of 1812 when he served with the rank of lieutenant-colonel in the militia.",
+          "Thomas-Pierre-Joseph became a member of the Legislative Council in 1818.",
+          "In 1821, he took an appointment as a judge in the district of Sainte-Marie and in 1823 a more important position in the district of Quebec.",
+          "He died on October 8, 1826 and was buried at Sainte-Marie.",
+          "He had two sons: Joseph-Andr\u00e9 and Pierre-Elz\u00e9ar Taschereau.",
+          "The latter's son, Henri-Elz\u00e9ar, would go on to be Chief Justice of Canada."
+        ]
+      ],
+      [
+        "Joseph-Andr\u00e9 Taschereau",
+        [
+          "Joseph-Andr\u00e9 Taschereau, (November 30, 1806\u2013March 30, 1867), was a lawyer, politician, and lastly, a judge.",
+          "He was born at Sainte-Marie, Quebec.",
+          "The son of Thomas-Pierre-Joseph Taschereau was a quiet child who early in life discovered a passion for the law.",
+          "He was educated at home and then articled and was admitted to the bar of Lower Canada in 1828 along with his brother Pierre-Elz\u00e9ar Taschereau.",
+          "Joseph-Andr\u00e9 had less than a year of joint practice in Quebec City with his brother, Pierre-Elz\u00e9ar, who in 1826 had inherited his father\u2019s seigneury, returned to the manor at Sainte-Marie.",
+          "He continued his practice from 1830 to 1835 and then entered politics back in his home riding of Beauce.",
+          "He was a maverick in the Taschereau clan, representing quite different points of view from his political relatives.",
+          "He was elected a member of the Legislative Assembly of Lower Canada from 1835 to 1838.",
+          "In 1845, he won a by-election to become a member of the Legislative Assembly of the Province of Canada, filling the seat left vacant by the death of Pierre-Elz\u00e9ar; he resigned when he was made a circuit judge in 1847.",
+          "In 1857 he was named judge of the Quebec Superior Court for the District of Kamouraska, where he had gone to live in 1852.",
+          "He died in Kamouraska, Quebec at the age of 60 years.",
+          "A bachelor, he devoted his life to politics and the law.",
+          "As a lawyer and judge, Taschereau excelled and his achievements put him on a level with other notables in this remarkable family."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the first name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "Joseph-Andr\u00e9 Taschereau's paternal grandfather",
+    "ques_on_last_hop": "What is the first letter of the first name of the father of Thomas-Pierre-Joseph Taschereau in lowercase?"
+  },
+  {
+    "_id": "562b581a0baf11ebab90acde48001122_0",
+    "question": "What is the last letter of the last name of James Tuchet, 5Th Earl Of Castlehaven's paternal grandmother?",
+    "answer": "m",
+    "previous_question": "Who is James Tuchet, 5Th Earl Of Castlehaven's paternal grandmother?",
+    "previous_answer": "Elizabeth Barnham",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the father of James Tuchet, 5Th Earl Of Castlehaven?",
+        "answer": "Mervyn Tuchet, 4th Earl of Castlehaven",
+        "paragraph_support_title": "James Tuchet, 5th Earl of Castlehaven"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the mother of Mervyn Tuchet, 4Th Earl Of Castlehaven?",
+        "answer": "Elizabeth Barnham",
+        "paragraph_support_title": "Mervyn Tuchet, 4th Earl of Castlehaven"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the last name of Elizabeth Barnham?",
+        "answer": "m",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Elizabeth Barnham?",
+            "answer": "Barnham",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Barnham?",
+            "answer": "m",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Mervyn Tuchet, 4th Earl of Castlehaven",
+        [
+          "Mervyn Tuchet, 4th Earl of Castlehaven (died 2 November 1686) was the third son of Mervyn Tuchet, 2nd Earl of Castlehaven, and his first wife, Elizabeth Barnham (1592 \u2013 c. 1622).",
+          "He married Mary Talbot (buried 15 March 1710/1), daughter of John Talbot, 10th Earl of Shrewsbury (bef.",
+          "1601\u20131654) and his wife, n\u00e9e Mary Fortesque.",
+          "They had at least three children:",
+          "He succeeded his brother James as Earl of Castlehaven on 11 October 1684.",
+          "He also held the lower titles 14th Baron Audley and 2nd Baron Audley of Hely.",
+          "On his death, his titles passed to his son James."
+        ]
+      ],
+      [
+        "James Tuchet, 5th Earl of Castlehaven",
+        [
+          "James Tuchet, 5th Earl of Castlehaven( died 12 August 1700) was the son of Mervyn Tuchet, 4th Earl of Castlehaven and Mary Talbot.",
+          "He succeeded his father as Earl of Castlehaven on 2 November 1686.",
+          "He married Anne Pelson, daughter of Richard Pelson and his wife, n\u00e9e Anne Villiers, daughter of Christopher Villiers, 1st Earl of Anglesey.",
+          "They had one son, James, who succeeded him as Earl of Castlehaven.",
+          "He died of apoplexy.",
+          "His gravestone is in the floor of the south aisle of the retrochoir at Winchester Cathedral."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the last name of #Name?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "James Tuchet, 5Th Earl Of Castlehaven's paternal grandmother",
+    "ques_on_last_hop": "What is the last letter of the last name of the mother of Mervyn Tuchet, 4Th Earl Of Castlehaven?"
+  },
+  {
+    "_id": "52376a780bdc11eba7f7acde48001122_0",
+    "question": "What is the last letter of the last name of the father of the director of film My 20Th Century?",
+    "answer": "i",
+    "previous_question": "Who is the father of the director of the film My 20Th Century?",
+    "previous_answer": "Gy\u00f6rgy Enyedi",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the director of My 20Th Century?",
+        "answer": "Ildik\u00f3 Enyedi",
+        "paragraph_support_title": "My 20th Century"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the father of Ildik\u00f3 Enyedi?",
+        "answer": "Gy\u00f6rgy Enyedi",
+        "paragraph_support_title": "Ildik\u00f3 Enyedi"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the last name of Gy\u00f6rgy Enyedi?",
+        "answer": "i",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Gy\u00f6rgy Enyedi?",
+            "answer": "Enyedi",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Enyedi?",
+            "answer": "i",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "My 20th Century",
+        [
+          "My 20th Century  is a 1989 Hungarian comedy-drama film written and directed by Ildik\u00f3 Enyedi.",
+          "It premiered at the Toronto Festival of Festivals.",
+          "Enyedi won the Golden Camera award at the 1989 Cannes Film Festival.",
+          "The film was selected as the Hungarian entry for the Best Foreign Language Film at the 62nd Academy Awards, but was not accepted as a nominee."
+        ]
+      ],
+      [
+        "Ildik\u00f3 Enyedi",
+        [
+          "Ildik\u00f3 Enyedi( born 15 November 1955) is a Hungarian film director and screenwriter.",
+          "She has directed eight films since 1989.",
+          "Her father, Gy\u00f6rgy Enyedi, was a geographer and economist who played a major role in the long- term development of regional science."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the last name of #Name?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "the father of the director of film My 20Th Century",
+    "ques_on_last_hop": "What is the last letter of the last name of the father of Ildik\u00f3 Enyedi?"
+  },
+  {
+    "_id": "9e506db00bdc11eba7f7acde48001122_0",
+    "question": "What is the last letter of the last name of the mother of the director of film Brenda Brave?",
+    "answer": "i",
+    "previous_question": "Who is the mother of the director of the film Brenda Brave?",
+    "previous_answer": "K\u00e4bi Laretei",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the director of Brenda Brave?",
+        "answer": "Daniel Bergman",
+        "paragraph_support_title": "Brenda Brave"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the mother of Daniel Bergman?",
+        "answer": "K\u00e4bi Laretei",
+        "paragraph_support_title": "Daniel Bergman"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the last name of K\u00e4bi Laretei?",
+        "answer": "i",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of K\u00e4bi Laretei?",
+            "answer": "Laretei",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Laretei?",
+            "answer": "i",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Brenda Brave",
+        [
+          "Brenda Brave (original title: Kajsa Kavat) is a 1989 Swedish film directed by Daniel Bergman and based on the novel \"Brenda Brave",
+          "Helps Grandmother\" by Astrid Lindgren."
+        ]
+      ],
+      [
+        "Daniel Bergman",
+        [
+          "Daniel Sebastian Bergman (born 7 September 1962) is a Swedish film director.",
+          "He is the son of Ingmar Bergman and K\u00e4bi Laretei.",
+          "As a child, Bergman appeared in a 1967 Swedish program called \"Stimulantia\", which consisted of eight episodes, one of which was directed by his father Ingmar.",
+          "The short, 10-minute film focuses on the first two years of Daniel's life.",
+          "His mother K\u00e4bi is also seen.",
+          "He was the assistant director of Andrei Tarkovsky on Offret (The Sacrifice, 1986).",
+          "Bergman directed an episode of the Swedish horror series \"Chock\", with Ernst-Hugo J\u00e4reg\u00e5rd.",
+          "Bergman's independent ability as a director was seen as compromised following the 1992 film \"Sunday's Children\", which he directed with his father providing the screenplay.",
+          "The film was seen in Swedish reviews as an attempt by Ingmar to boost the career of his son."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the last name of #Name?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "the mother of the director of film Brenda Brave",
+    "ques_on_last_hop": "What is the last letter of the last name of the mother of Daniel Bergman?"
+  },
+  {
+    "_id": "5569eb4e0baf11ebab90acde48001122_0",
+    "question": "What is the last letter of the last name of Eva Chamberlain's maternal grandmother?",
+    "answer": "t",
+    "previous_question": "Who is Eva Chamberlain's maternal grandmother?",
+    "previous_answer": "Marie d'Agoult",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the mother of Eva Chamberlain?",
+        "answer": "Cosima Wagner",
+        "paragraph_support_title": "Eva Chamberlain"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the mother of Cosima Wagner?",
+        "answer": "Marie d'Agoult",
+        "paragraph_support_title": "Cosima Wagner"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the last name of Marie d'Agoult?",
+        "answer": "t",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Marie d'Agoult?",
+            "answer": "d'Agoult",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of d'Agoult?",
+            "answer": "t",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Cosima Wagner",
+        [
+          "Cosima Wagner (born Francesca Gaetana Cosima Liszt; 24 December 1837 \u2013 1 April 1930) was the illegitimate daughter of the Hungarian pianist and composer Franz Liszt and Marie d'Agoult.",
+          "She became the second wife of the German composer Richard Wagner, and with him founded the Bayreuth Festival as a showcase for his stage works; after his death she devoted the rest of her life to the promotion of his music and philosophy.",
+          "Commentators have recognised Cosima as the principal inspiration for Wagner's later works, particularly \"Parsifal\".",
+          "In 1857, after a childhood largely spent under the care of her grandmother and with governesses, Cosima married the conductor Hans von B\u00fclow.",
+          "Although the marriage produced two children, it was largely a loveless union, and in 1863 Cosima began a relationship with Wagner, who was 24 years her senior.",
+          "She married him in 1870; after his death in 1883 she directed the Bayreuth Festival for more than 20 years, increasing its repertoire to form the Bayreuth canon of ten operas and establishing the festival as a major event in the world of musical theatre.",
+          "During her directorship, Cosima opposed theatrical innovations and adhered closely to Wagner's original productions of his works, an approach continued by her successors long after her retirement in 1907.",
+          "She shared Wagner's convictions of German cultural and racial superiority, and under her influence, Bayreuth became increasingly identified with antisemitism.",
+          "This was a defining aspect of Bayreuth for decades, into the Nazi era which closely followed her death in 1930.",
+          "Thus, although she is widely perceived as the saviour of the festival, her legacy remains controversial."
+        ]
+      ],
+      [
+        "Eva Chamberlain",
+        [
+          "Eva Chamberlain (1867\u20131942) born Eva Maria von B\u00fclow, was the daughter of Richard Wagner and Cosima Wagner, and the wife of Houston Stewart Chamberlain.",
+          "When she was born, her mother was still married to Hans von B\u00fclow.",
+          "Through her mother, she was also a granddaughter of Franz Liszt.",
+          "With her siblings Isolde and Siegfried, Eva was brought up by a house teacher.",
+          "In 1906 Eva took over the care of the sick mother at Villa Wahnfried in Bayreuth, took care of her mail, and was the only family member to have access to the family archive.",
+          "In 1908 she married Houston Stewart Chamberlain.",
+          "They acquired a stately villa \u2013 now the Jean Paul Museum \u2013 next to the Villa Wahnfried, and moved into it in 1916",
+          "In the 1920s and 1930s, she and her sister Daniela were the head of the Altwagnerians who opposed any modernization of Richard Wagner's works.",
+          "In 1933 she received the honorary citizenship of the city of Bayreuth.",
+          "She was also a bearer of the Golden Party Badge of the Nazi Party.",
+          "When she died of cancer in 1942, she was given an honorary funeral of the NSDAP, in which Adolf Wagner gave the eulogy."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the last name of #Name?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "Eva Chamberlain's maternal grandmother",
+    "ques_on_last_hop": "What is the last letter of the last name of the mother of Cosima Wagner?"
+  },
+  {
+    "_id": "26af280a0bdc11eba7f7acde48001122_0",
+    "question": "What is the first letter of the last name of the mother of the director of film Operation Gold Ingot in lowercase?",
+    "answer": "s",
+    "previous_question": "Who is the mother of the director of the film Operation Gold Ingot?",
+    "previous_answer": "Ren\u00e9e Saint-Cyr",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the director of Operation Gold Ingot?",
+        "answer": "Georges Lautner",
+        "paragraph_support_title": "Operation Gold Ingot"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the mother of Georges Lautner?",
+        "answer": "Ren\u00e9e Saint-Cyr",
+        "paragraph_support_title": "Georges Lautner"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the last name of Ren\u00e9e Saint-Cyr in lowercase?",
+        "answer": "s",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Ren\u00e9e Saint-Cyr?",
+            "answer": "Saint-Cyr",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of Saint-Cyr?",
+            "answer": "s",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Operation Gold Ingot",
+        [
+          "Operation Gold Ingot  is a 1962 French-Italian heist film directed by Georges Lautner and starring Martine Carol.",
+          "It is based on a novel by M.G. Braun."
+        ]
+      ],
+      [
+        "Georges Lautner",
+        [
+          "Georges Lautner( 24 January 1926 \u2013 22 November 2013) was a French film director and screenwriter, known primarily for his comedies created in collaboration with screenwriter Michel Audiard.",
+          "Lautner's ventures into other genres were less successful though the thriller Le Professionnel starring Jean- Paul Belmondo was a big commercial hit in France in 1981.",
+          "He was born in Nice, the son of actress Ren\u00e9e Saint- Cyr."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the last name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the mother of the director of film Operation Gold Ingot",
+    "ques_on_last_hop": "What is the first letter of the last name of the mother of Georges Lautner in lowercase?"
+  },
+  {
+    "_id": "5c7842780baf11ebab90acde48001122_0",
+    "question": "What is the first letter of the last name of the paternal grandfather of Dui Finn in lowercase?",
+    "answer": "r",
+    "previous_question": "Who is the paternal grandfather of Dui Finn?",
+    "previous_answer": "Bres R\u00ed",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the father of Dui Finn?",
+        "answer": "S\u00e9tna Innarraid",
+        "paragraph_support_title": "Dui Finn"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the father of S\u00e9tna Innarraid?",
+        "answer": "Bres R\u00ed",
+        "paragraph_support_title": "S\u00e9tna Innarraid"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the last name of Bres R\u00ed in lowercase?",
+        "answer": "r",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Bres R\u00ed?",
+            "answer": "R\u00ed",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of R\u00ed?",
+            "answer": "r",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "S\u00e9tna Innarraid",
+        [
+          "S\u00e9tna Innarraid (\"of wages, stipend, reward\"), son of Bres R\u00ed, was, according to medieval Irish legend and historical tradition, a High King of Ireland.",
+          "He is said to have been the first Irish king to pay his soldiers.",
+          "He ruled for twenty years, before he was killed by Siom\u00f3n Brecc, grandson of Nuadu Finn F\u00e1il.",
+          "The \"Lebor Gab\u00e1la \u00c9renn\" synchronises his reign with those of Darius the Great (522\u2013485 BC) and Xerxes I (485\u2013465 BC) of Persia.",
+          "The chronology of Geoffrey Keating's \"Foras Feasa ar \u00c9irinn\" dates his reign to 705\u2013685 BC, that of the \"Annals of the Four Masters\" to 930\u2013910 BC."
+        ]
+      ],
+      [
+        "Dui Finn",
+        [
+          "Dui Finn, son of S\u00e9tna Innarraid, was, according to medieval Irish legend and historical tradition, a High King of Ireland.",
+          "He took power after killing his predecessor, and his father's killer, Siom\u00f3n Brecc.",
+          "He ruled for ten years, before he was killed by Siom\u00f3n's son Muiredach Bolgrach.",
+          "The \"Lebor Gab\u00e1la \u00c9renn\" synchronises his reign with those of Xerxes I (485\u2013465 BC) and Artaxerxes I (465\u2013424 BC) of Persia.",
+          "The chronology of Geoffrey Keating's \"Foras Feasa ar \u00c9irinn\" dates his reign to 679\u2013674 BCBC, that of the \"Annals of the Four Masters\" to 904\u2013894 BC."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the last name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the paternal grandfather of Dui Finn",
+    "ques_on_last_hop": "What is the first letter of the last name of the father of S\u00e9tna Innarraid in lowercase?"
+  },
+  {
+    "_id": "d301fe960bd911eba7f7acde48001122_0",
+    "question": "What is the first letter of the last name of the spouse of the director of film Manamagan Thevai in lowercase?",
+    "answer": "r",
+    "previous_question": "Who is the spouse of the director of the film Manamagan Thevai?",
+    "previous_answer": "Bhanumathi Ramakrishna",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the director of Manamagan Thevai?",
+        "answer": "P. S. Ramakrishna Rao",
+        "paragraph_support_title": "Manamagan Thevai"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the spouse of P. S. Ramakrishna Rao?",
+        "answer": "Bhanumathi Ramakrishna",
+        "paragraph_support_title": "P. S. Ramakrishna Rao"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the last name of Bhanumathi Ramakrishna in lowercase?",
+        "answer": "r",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Bhanumathi Ramakrishna?",
+            "answer": "Ramakrishna",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of Ramakrishna?",
+            "answer": "r",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "P. S. Ramakrishna Rao",
+        [
+          "P. S. Ramakrishna Rao (b: 12 October 1918 - d: 7 September 1986) was a veteran Telugu film director and producer.",
+          "He married Bhanumathi Ramakrishna, a multi-talented film artist from South India, on 8 August 1943.",
+          "Raavu Balasaraswathi is his sister."
+        ]
+      ],
+      [
+        "Manamagan Thevai",
+        [
+          "Manamagan Thevai\"  is a 1957 Indian Tamil-language romantic comedy film directed by P. S. Ramakrishna Rao.",
+          "He, along with his wife Bhanumathi, produced the film under their company Bharani Pictures.",
+          "The film features Bhanumathi and Sivaji Ganesan in the lead roles.",
+          "It was simultaneously produced in Telugu as Varudu Kaavaali\" with K. Jaggaiah replacing Sivaji Ganesan. \"",
+          "Manamagan Thevai\" was a commercial success, running for over 100 days in theatres."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the last name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the spouse of the director of film Manamagan Thevai",
+    "ques_on_last_hop": "What is the first letter of the last name of the spouse of P. S. Ramakrishna Rao in lowercase?"
+  },
+  {
+    "_id": "1bfdd2d20bda11eba7f7acde48001122_0",
+    "question": "What is the first letter of the last name of the spouse of the director of film P\u00e5 Solsiden in lowercase?",
+    "answer": "c",
+    "previous_question": "Who is the spouse of the director of the film P\u00e5 Solsiden?",
+    "previous_answer": "Otto Carlmar",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the director of P\u00e5 Solsiden?",
+        "answer": "Edith Carlmar",
+        "paragraph_support_title": "P\u00e5 solsiden"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the spouse of Edith Carlmar?",
+        "answer": "Otto Carlmar",
+        "paragraph_support_title": "Edith Carlmar"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the last name of Otto Carlmar in lowercase?",
+        "answer": "c",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Otto Carlmar?",
+            "answer": "Carlmar",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of Carlmar?",
+            "answer": "c",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Edith Carlmar",
+        [
+          "Edith Carlmar (Edith Mary Johanne Mathiesen) (15 November 1911 \u2013 17 May 2003) was an Norwagian actress and Norway's first female film director.",
+          "She is known for films such as \"Fjols til fjells\" (1957), \"Aldri annet enn br\u00e5k\" (1954), and \"Ung flukt\" (1959).",
+          "Her 1949 film, \"D\u00f8den er",
+          "et kj\u00e6rtegnDeath is a Caress\"), is considered to be Norway's first film noir.",
+          "The last film she directed, \"Ung Flukt\", introduced Liv Ullmann, Norway's most famous actor internationally, to the silver screen.",
+          "Carlmar came from a poor family in the working class districts of East Oslo.",
+          "However, she did manage to take dancing classes and made her debut on stage at the age of 15.",
+          "In the theater she met Otto Carlmar whom she married three years later.",
+          "From 1936 she worked as an actress in various theatres.",
+          "Here she met the film director Tancred Ibsen who introduced her to the world of cinema.",
+          "In 1949 she and her husband started Carlmar Film A/S, and began writing scripts, directing and producing films.",
+          "They made ten feature films over a ten-year period.",
+          "After a decade of film-making Carlmar retired as a director.",
+          "In the last part of her life she accepted only minor acting roles in plays and movies."
+        ]
+      ],
+      [
+        "P\u00e5 solsiden",
+        [
+          "P\u00e5 solsiden",
+          "(On the Sunny Side) is a Norwegian comedy-drama film from 1956 directed by Edith Carlmar.",
+          "It stars Arne Lie, Randi Kolstad, Henny Moan, Ellen Isefi\u00e6r, and Joachim Holst-Jensen.",
+          "The film is based on Helge Krog's 1927 play of the same name."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the last name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the spouse of the director of film P\u00e5 Solsiden",
+    "ques_on_last_hop": "What is the first letter of the last name of the spouse of Edith Carlmar in lowercase?"
+  },
+  {
+    "_id": "270c5b4c0baf11ebab90acde48001122_0",
+    "question": "What is the first letter of the last name of the paternal grandfather of Baha Al-Dawla in lowercase?",
+    "answer": "a",
+    "previous_question": "Who is the paternal grandfather of Baha Al-Dawla?",
+    "previous_answer": "Rukn al-Dawla",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the father of Baha Al-Dawla?",
+        "answer": "'Adud al-Dawla",
+        "paragraph_support_title": "Baha al-Dawla"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the father of 'Adud Al-Dawla?",
+        "answer": "Rukn al-Dawla",
+        "paragraph_support_title": "'Adud al-Dawla"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the last name of Rukn al-Dawla in lowercase?",
+        "answer": "a",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Rukn al-Dawla?",
+            "answer": "al-Dawla",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of al-Dawla?",
+            "answer": "a",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "'Adud al-Dawla",
+        [
+          "Fann\u0101 (Pan\u0101h) Khusraw , better known by his laqab of \u02bfA\u1e0dud al-Dawla (\"Pillar of the [Abbasid] Dynasty\")",
+          "(September 24, 936 \u2013 March 26, 983) was an emir of the Buyid dynasty, ruling from 949 to 983, and at his height of power ruling an empire stretching from Makran as far to Yemen and the shores of the Mediterranean Sea.",
+          "He is widely regarded as the greatest monarch of the dynasty, and by the end of his reign was the most powerful ruler in the Middle East.",
+          "The son of Rukn al-Dawla, Fanna Khusraw was given the title of Adud al-Dawla by the Abbasid caliph in 948 when he was made emir of Fars after the death of his childless uncle",
+          "Imad al-Dawla, after which Rukn al-Dawla became the senior emir of the Buyids.",
+          "In 974 Adud al-Dawla was sent by his father to save his cousin Izz al-Dawla from a rebellion.",
+          "After defeating the rebel forces, he claimed the emirate of Iraq for himself, and forced his cousin to abdicate.",
+          "His father, however, became angered by this decision and restored Izz al-Dawla.",
+          "After the death of Adud al-Dawla's father, his cousin rebelled against him, but was defeated.",
+          "Adud al-Dawla became afterwards the sole ruler of the Buyid dynasty and assumed the ancient Iranian title of Shahanshah (\"King of Kings\").",
+          "When Adud al-Dawla became emir of Iraq, the capital city, Baghdad, was suffering from violence and instability owing to sectarian conflict.",
+          "In order to bring peace and stability to the city, he ordered the banning of public demonstrations and polemics.",
+          "At the same time, he patronized a number of Shia scholars such as al-Mufid, and sponsored the renovation of a number of important Shia shrines.",
+          "In addition, 'Adud al-Dawla is credited with sponsoring and patronizing other scientific projects during his time.",
+          "An observatory was built by his orders in Isfahan where Azophi worked.",
+          "Al-Muqaddasi also reports that he ordered the construction of a great dam between Shiraz and Estakhr in 960.",
+          "The dam irrigated some 300 villages in Fars province and became known as \"Band-e Amir\" (Dam of the emir).",
+          "Among his other major constructions was the digging of the Haffar channel, that joined the Karun river to the Shatt al-Arab river (the confluence of the Tigris and the Euphrates).",
+          "The port of Khorramshahr was built on the Haffar, at its joining point with the Shatt al-Arab."
+        ]
+      ],
+      [
+        "Baha al-Dawla",
+        [
+          "Abu Nasr Firuz Kharshadh (died December 22, 1012), better known by his \"laqab\" of Baha al-Dawla  was the Buyid amir of Iraq (988\u20131012), along with Fars and Kerman (998\u20131012).",
+          "His early reign was dominated by struggles with his rival relatives over control of the western Persian provinces, but by 998 he managed to establish his supremacy over the Buyid confederation.",
+          "His reign nevertheless saw the increasing encroachment of neighbouring powers on Buyid territory, and marks the beginning of the decline of the Buyids' power.",
+          "He was the third son of 'Adud al-Dawla."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the last name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the paternal grandfather of Baha Al-Dawla",
+    "ques_on_last_hop": "What is the first letter of the last name of the father of 'Adud Al-Dawla in lowercase?"
+  },
+  {
+    "_id": "5ab5744e554299494045efdf_0",
+    "question": "What is the first letter of the first name of the director of a 1977 film which shares a name with The third solo album by David Gates of Bread  in lowercase?",
+    "answer": "h",
+    "previous_question": "The third solo album by David Gates of Bread shares a name with a 1977 film directed by who?",
+    "previous_answer": "Herbert Ross",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "The third solo album by David Gates of Bread shares a name with which 1977 film?",
+        "answer": "Goodbye Girl (David Gates album)",
+        "paragraph_support_title": "Goodbye Girl (David Gates album)"
+      },
+      {
+        "sub_id": "2",
+        "question": "Goodbye Girl was directed by who?",
+        "answer": "Herbert Ross",
+        "paragraph_support_title": "The Goodbye Girl"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the first name of Herbert Ross in lowercase?",
+        "answer": "h",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Herbert Ross?",
+            "answer": "Herbert",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of Herbert?",
+            "answer": "H",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Goodbye Girl (David Gates album)",
+        [
+          "Goodbye Girl is the third solo album by David Gates of Bread.",
+          " The song \"Goodbye Girl\" was also used in the movie of the same name."
+        ]
+      ],
+      [
+        "The Goodbye Girl",
+        [
+          "The Goodbye Girl is a 1977 American romantic comedy-drama film.",
+          " Produced by Ray Stark and directed by Herbert Ross, the film stars Richard Dreyfuss, Marsha Mason, Quinn Cummings, and Paul Benedict.",
+          " The original screenplay by Neil Simon centers on an odd trio: a struggling actor who has sublet a Manhattan apartment from a friend, the current occupant (his friend's ex-girlfriend, who has just been abandoned), and her precocious young daughter."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the first name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the director of a 1977 film which shares a name with The third solo album by David Gates of Bread ",
+    "ques_on_last_hop": "What is the first letter of the first name of the director of Goodbye Girl in lowercase?"
+  },
+  {
+    "_id": "5a7741775542994aec3b724f_0",
+    "question": "What is the first letter of the last name of the character portrayed by Anna Camp in the film centered on the fictional Barden University and The Bellas in lowercase?",
+    "answer": "p",
+    "previous_question": "What is the name of the character portrayed by Anna Camp in the film centered on the fictional Barden University and The Bellas?",
+    "previous_answer": "Aubrey Posen",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "What is the film that centered on the fictional Barden University and The Bellas?",
+        "answer": "Pitch Perfect 2",
+        "paragraph_support_title": "Pitch Perfect 2"
+      },
+      {
+        "sub_id": "2",
+        "question": "What is the name of the character portrayed by Anna Camp in Pitch Perfect 2?",
+        "answer": "Aubrey Posen",
+        "paragraph_support_title": "Anna Camp"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the last name of Aubrey Posen in lowercase?",
+        "answer": "p",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Aubrey Posen?",
+            "answer": "Posen",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of Posen?",
+            "answer": "P",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Pitch Perfect 2",
+        [
+          "Pitch Perfect 2 is a 2015 American musical comedy film directed and co-produced by Elizabeth Banks and written by Kay Cannon.",
+          " It is a sequel to the 2012 film \"Pitch Perfect\" and the second installment in the \"Pitch Perfect\" series.",
+          " The film centers on the fictional Barden University and The Bellas, an all-female a cappella singing group.",
+          " The film features an ensemble cast, including Anna Kendrick, Rebel Wilson, Hailee Steinfeld, Brittany Snow, Alexis Knapp, Hana Mae Lee, Ester Dean, Chrissie Fit, Kelley Jakle and Shelley Regner as The Bellas.",
+          " It was released on May 15, 2015 by Universal Pictures."
+        ]
+      ],
+      [
+        "Anna Camp",
+        [
+          "Anna Ragsdale Camp (born September 27, 1982) is an American actress and singer.",
+          " She is known for her role as Sarah Newlin in \"True Blood\", and her recurring roles in \"Mad Men\", \"The Good Wife\", and \"The Mindy Project\".",
+          " She is also known for her role as Aubrey Posen in \"Pitch Perfect\" (2012), \"Pitch Perfect 2\" (2015), and the upcoming \"Pitch Perfect 3\" (2017).",
+          " She made her Broadway debut in the 2008 production of \"A Country House\" and played Jill Mason in the 2008 Broadway revival of \"Equus\".",
+          " In 2012, she was nominated for a Drama Desk Award for her performance in the Off-Broadway play \"All New People\".",
+          " Camp played Jane Hollander, a researcher for the fictitious \"News of the Week\" magazine in the Amazon series \"Good Girls Revolt.\"",
+          " She also had a role in the 2011 film \"The Help\"."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the last name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the character portrayed by Anna Camp in the film centered on the fictional Barden University and The Bellas",
+    "ques_on_last_hop": "What is the first letter of the last name of the name of the character portrayed by Anna Camp in Pitch Perfect 2 in lowercase?"
+  },
+  {
+    "_id": "5ae638865542992ae0d1628c_0",
+    "question": "What is the last letter of the first name of the person who created the 2003 remake of the 1983 overhead view, vehicular combat game developed by Bally Midway?",
+    "answer": "m",
+    "previous_question": "Who created the 2003 remake of the 1983 overhead view, vehicular combat game developed by Bally Midway?",
+    "previous_answer": "Adam Dawes",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "What is the 1983 overhead view, vehicular combat game developed by Bally Midway?",
+        "answer": "Spy Hunter",
+        "paragraph_support_title": "Spy Hunter"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who created the 2003 remake of Spy Hunter?",
+        "answer": "Adam Dawes",
+        "paragraph_support_title": "Highway Pursuit"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the first name of Adam Dawes?",
+        "answer": "m",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Adam Dawes?",
+            "answer": "Adam",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Adam?",
+            "answer": "M",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Spy Hunter",
+        [
+          "Spy Hunter is an overhead view, vehicular combat game developed by Bally Midway and released in arcades in 1983."
+        ]
+      ],
+      [
+        "Highway Pursuit",
+        [
+          "Highway Pursuit is a computer game remake of Spy Hunter created by Adam Dawes in association with Retrospec, initially released in 2003."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the first name of #Name?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "the person who created the 2003 remake of the 1983 overhead view, vehicular combat game developed by Bally Midway",
+    "ques_on_last_hop": "What is the last letter of the first name of the creator of the 2003 remake of Spy Hunter?"
+  },
+  {
+    "_id": "fc0370920baf11ebab90acde48001122_0",
+    "question": "What is the last letter of the last name of the paternal grandmother of Mervyn Tuchet, 4Th Earl Of Castlehaven?",
+    "answer": "n",
+    "previous_question": "Who is the paternal grandmother of Mervyn Tuchet, 4Th Earl Of Castlehaven?",
+    "previous_answer": "Lucy Mervyn",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the father of Mervyn Tuchet, 4Th Earl Of Castlehaven?",
+        "answer": "Mervyn Tuchet, 2nd Earl of Castlehaven",
+        "paragraph_support_title": "Mervyn Tuchet, 4th Earl of Castlehaven"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the mother of Mervyn Tuchet, 2Nd Earl Of Castlehaven?",
+        "answer": "Lucy Mervyn",
+        "paragraph_support_title": "Mervyn Tuchet, 2nd Earl of Castlehaven"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the last name of Lucy Mervyn?",
+        "answer": "n",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Lucy Mervyn?",
+            "answer": "Mervyn",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Mervyn?",
+            "answer": "n",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Mervyn Tuchet, 4th Earl of Castlehaven",
+        [
+          "Mervyn Tuchet, 4th Earl of Castlehaven (died 2 November 1686) was the third son of Mervyn Tuchet, 2nd Earl of Castlehaven, and his first wife, Elizabeth Barnham (1592 \u2013 c. 1622).",
+          "He married Mary Talbot (buried 15 March 1710/1), daughter of John Talbot, 10th Earl of Shrewsbury (bef.",
+          "1601\u20131654) and his wife, n\u00e9e Mary Fortesque.",
+          "They had at least three children:",
+          "He succeeded his brother James as Earl of Castlehaven on 11 October 1684.",
+          "He also held the lower titles 14th Baron Audley and 2nd Baron Audley of Hely.",
+          "On his death, his titles passed to his son James."
+        ]
+      ],
+      [
+        "Mervyn Tuchet, 2nd Earl of Castlehaven",
+        [
+          "Mervyn Tuchet (sometimes Mervin Touchet), 2nd Earl of Castlehaven (1593 \u2013 14 May 1631), was an English nobleman who was convicted of rape and sodomy and subsequently executed.",
+          "A son of George Tuchet, 1st Earl of Castlehaven and 11th Baron Audley, by his wife, Lucy Mervyn, he was known by the courtesy title of Lord Audley during his father's lifetime, so is sometimes referred to as Mervyn Audley.",
+          "He was knighted by James I in 1608, before he studied law at the Middle Temple.",
+          "He served as Member of the Parliament of England for Dorset in the Addled Parliament of 1614 and was a Justice of the Peace for the counties of Dorset, Somerset, and Wiltshire.",
+          "He succeeded his father on 20 February 1616/7 as Earl of Castlehaven and Baron Audley.",
+          "He left seven children upon his death.",
+          "Sometime before 1612 (records of the marriage are lacking), Lord Audley married Elizabeth Barnham, a sister-in-law of the philosopher and scientist Francis Bacon, and with her he had six children.",
+          "By all accounts the marriage was a loving and successful one, ending with her death in 1622.",
+          "His second marriage, on 22 July 1624, at Harefield, Middlesex, was to the former Lady Anne Stanley (1580\u20131647), elder daughter and co-heiress of Ferdinando Stanley, 5th Earl of Derby (by his wife, Alice Spencer), and widow of Grey Brydges, 5th Baron Chandos.",
+          "They had a daughter, Anne Touchet, who died young.",
+          "Lady Anne was significantly older than Castlehaven, and the marriage was not a success, but in 1628 Lord Castlehaven's son was married to her thirteen-year-old daughter, Elizabeth; a marriage of step-children."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the last name of #Name?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "the paternal grandmother of Mervyn Tuchet, 4Th Earl Of Castlehaven",
+    "ques_on_last_hop": "What is the last letter of the last name of the mother of Mervyn Tuchet, 2Nd Earl Of Castlehaven?"
+  },
+  {
+    "_id": "8762e83a0baf11ebab90acde48001122_0",
+    "question": "What is the last letter of the last name of the paternal grandfather of Kerry Earnhardt?",
+    "answer": "t",
+    "previous_question": "Who is the paternal grandfather of Kerry Earnhardt?",
+    "previous_answer": "Ralph Earnhardt",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the father of Kerry Dale Earnhardt?",
+        "answer": "Dale Earnhardt",
+        "paragraph_support_title": "Kerry Earnhardt"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the father of Dale Earnhardt?",
+        "answer": "Ralph Earnhardt",
+        "paragraph_support_title": "Dale Earnhardt"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the last name of Ralph Earnhardt?",
+        "answer": "t",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Ralph Earnhardt?",
+            "answer": "Earnhardt",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Earnhardt?",
+            "answer": "t",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Kerry Earnhardt",
+        [
+          "Kerry Dale Earnhardt (born December 8, 1969) is a former NASCAR driver and the elder son of seven-time Winston Cup Series champion Dale Earnhardt.",
+          "He is the half-brother of former Cup Series driver Dale Earnhardt Jr. He was employed by Dale Earnhardt, Inc. as a consultant, specializing in driver development, until 2011.",
+          "His younger son, Jeffrey Earnhardt, began racing for DEI in 2007, and currently competes in the Monster Energy NASCAR Cup Series.",
+          "Kerry is known for his physical similarity to his father."
+        ]
+      ],
+      [
+        "Dale Earnhardt",
+        [
+          "Ralph Dale Earnhardt Sr. (April 29, 1951 \u2013 February 18, 2001) was an American professional auto racing driver and team owner, best known for his involvement in stock car racing for NASCAR.",
+          "The third child of racing driver Ralph Earnhardt and Martha Earnhardt, he began his career in 1975 in the World 600 as part of the Winston Cup Series.",
+          "Regarded as one of the most significant drivers in NASCAR history, Earnhardt won a total of 76 Winston Cup races over the course of his career, including the 1998 Daytona 500.",
+          "He also earned seven NASCAR Winston Cup championships, tying for the most all-time with Richard Petty.",
+          "This feat, accomplished in 1994, was not equaled again for 22 years until Jimmie Johnson in 2016.",
+          "His aggressive driving style earned him the nicknames \"IronheadThe Intimidator\", and \"The Man in Black\".",
+          "Also, his success at the restrictor plate tracks of Daytona and Talladega earned him the nickname, \"Mr. Restrictor Plate\".",
+          "In February 2001, Earnhardt died due to injuries sustained in a collision during the final lap of the Daytona 500, an event that was widely lamented in the racing industry.",
+          "Earnhardt has been inducted into numerous halls of fame, including the NASCAR Hall of Fame inaugural class in 2010."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the last name of #Name?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "the paternal grandfather of Kerry Earnhardt",
+    "ques_on_last_hop": "What is the last letter of the last name of the father of Dale Earnhardt?"
+  },
+  {
+    "_id": "9e9c5b440bdc11eba7f7acde48001122_0",
+    "question": "What is the last letter of the last name of the spouse of the director of film Sorority House (Film)?",
+    "answer": "n",
+    "previous_question": "Who is the spouse of the director of film Sorority House (Film)?",
+    "previous_answer": "Maureen O'Sullivan",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the director of Sorority House?",
+        "answer": "John Farrow",
+        "paragraph_support_title": "Sorority House (film)"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the spouse of John Farrow?",
+        "answer": "Maureen O'Sullivan",
+        "paragraph_support_title": "John Farrow"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the last name of Maureen O'Sullivan?",
+        "answer": "n",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Maureen O'Sullivan?",
+            "answer": "O'Sullivan",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of O'Sullivan?",
+            "answer": "n",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "John Farrow",
+        [
+          "John Villiers Farrow, KGCHS (10 February 190427 January 1963) was an Australian-born American film director, producer and screenwriter.",
+          "In 1957, he won the Academy Award for Best Writing/Best Screenplay for \"Around the World in Eighty Days\" and in 1942, he was nominated as Best Director for \"Wake Island\".",
+          "He had seven children by his wife, actress Maureen O'Sullivan, including actress Mia Farrow."
+        ]
+      ],
+      [
+        "Sorority House (film)",
+        [
+          "Sorority House is a 1939 American drama film starring Anne Shirley and James Ellison.",
+          "The film was directed by John Farrow and based upon the Mary Coyle Chase play named \"Chi House\"."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the last name of #Name?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "the spouse of the director of film Sorority House (Film)",
+    "ques_on_last_hop": "What is the last letter of the last name of the spouse of John Farrow?"
+  },
+  {
+    "_id": "6f1c59360bdd11eba7f7acde48001122_0",
+    "question": "What is the last letter of the first name of the mother of the director of film Cop Or Hood?",
+    "answer": "e",
+    "previous_question": "Who is the mother of the director of the film Cop Or Hood?",
+    "previous_answer": "Ren\u00e9e Saint-Cyr",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the director of Cop Or Hood?",
+        "answer": "Georges Lautner",
+        "paragraph_support_title": "Cop or Hood"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the mother of Georges Lautner?",
+        "answer": "Ren\u00e9e Saint-Cyr",
+        "paragraph_support_title": "Georges Lautner"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the first name of Ren\u00e9e Saint-Cyr?",
+        "answer": "e",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Ren\u00e9e Saint-Cyr?",
+            "answer": "Ren\u00e9e",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Ren\u00e9e?",
+            "answer": "e",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Georges Lautner",
+        [
+          "Georges Lautner( 24 January 1926 \u2013 22 November 2013) was a French film director and screenwriter, known primarily for his comedies created in collaboration with screenwriter Michel Audiard.",
+          "Lautner's ventures into other genres were less successful though the thriller Le Professionnel starring Jean- Paul Belmondo was a big commercial hit in France in 1981.",
+          "He was born in Nice, the son of actress Ren\u00e9e Saint- Cyr."
+        ]
+      ],
+      [
+        "Cop or Hood",
+        [
+          "Cop or Hood is a 1979 French crime and action film directed by Georges Lautner.",
+          "It's loosely based on the novel\" L'Inspecteur de la mer\" by Michel Grisolia."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the first name of #Name?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "the mother of the director of film Cop Or Hood",
+    "ques_on_last_hop": "What is the last letter of the first name of the mother of Georges Lautner?"
+  },
+  {
+    "_id": "b01b7cc40baf11ebab90acde48001122_0",
+    "question": "What is the last letter of the first name of Viacheslav I Of Kiev's maternal grandfather?",
+    "answer": "d",
+    "previous_question": "Who is Viacheslav I Of Kiev's maternal grandfather?",
+    "previous_answer": "Harold Godwinson",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the mother of Viacheslav I Of Kiev?",
+        "answer": "Gytha of Wessex",
+        "paragraph_support_title": "Viacheslav I of Kiev"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the father of Gytha Of Wessex?",
+        "answer": "Harold Godwinson",
+        "paragraph_support_title": "Gytha of Wessex"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the first name of Harold Godwinson?",
+        "answer": "d",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Harold Godwinson?",
+            "answer": "Harold",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Harold?",
+            "answer": "d",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Gytha of Wessex",
+        [
+          "Gytha of Wessex (born c. 1053/1061 - died 1098 or 1107) was one of several daughters of Harold Godwinson, the last Anglo-Saxon King of England, by his consort, Edyth Swannesha.",
+          "Through marriage to Vladimir II Monomakh Gytha became a Grand Princess consort of Kievan Rus'."
+        ]
+      ],
+      [
+        "Viacheslav I of Kiev",
+        [
+          "Viacheslav Vladimirovich  (1083 \u2013 2 February 1154) was a Prince of Smolensk (1113\u20131125), Turov (1125\u20131132, 1134\u20131146), Pereyaslavl (1132\u20131134, 1142), Peresopnytsia (1146\u20131149), Vyshgorod (1149\u20131151) and Grand Prince of Kiev (1139, 1151\u20131154).",
+          "He was a son of Vladimir Monomakh and Gytha of Wessex.",
+          "On 18 February 1139 he succeeded his brother Yaropolk II of Kiev as Grand Prince, but was driven out in March by Vsevolod II of Kiev.",
+          "He later ruled Kiev jointly with his nephew Iziaslav II of Kiev and died not long after Iziaslav in late 1154 or early 1155 and is buried in the St. Sophia Cathedral in Kiev.",
+          "His only son, Michael Viacheslavovich, had predeceased him in 1129."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the first name of #Name?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "Viacheslav I Of Kiev's maternal grandfather",
+    "ques_on_last_hop": "What is the last letter of the first name of the father of Gytha Of Wessex?"
+  },
+  {
+    "_id": "85dd56440baf11ebab90acde48001122_0",
+    "question": "What is the last letter of the first name of Albert G. Simms's father-in-law?",
+    "answer": "k",
+    "previous_question": "Who is Albert G. Simms's father-in-law?",
+    "previous_answer": "Mark Hanna",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the spouse of Albert Gallatin Simms?",
+        "answer": "Ruth Hanna McCormick",
+        "paragraph_support_title": "Albert G. Simms"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the father of Ruth Hanna Mccormick?",
+        "answer": "Mark Hanna",
+        "paragraph_support_title": "Ruth Hanna McCormick"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the first name of Mark Hanna?",
+        "answer": "k",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Mark Hanna?",
+            "answer": "Mark",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Mark?",
+            "answer": "k",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Ruth Hanna McCormick",
+        [
+          "Ruth Hanna McCormick (n\u00e9e Ruth Hanna, also known as Ruth Hanna McCormick Simms; March 27, 1880 \u2013 December 31, 1944), was an American politician, activist, and publisher.",
+          "She served one term in the United States House of Representatives, winning an at-large seat in Illinois in 1928.",
+          "She gave up the chance to run for re-election to seek a United States Senate seat from Illinois.",
+          "She defeated the incumbent, Senator Charles S. Deneen, in the Republican primary, becoming the first female Senate candidate for a major party.",
+          "McCormick lost the general election.",
+          "A decade later, she became the first woman to manage a presidential campaign, although her candidate, Thomas E. Dewey, failed to capture his party's nomination.",
+          "Politics was a part of McCormick's life from an early age.",
+          "She was the daughter of Mark Hanna, a Senator and politician who was instrumental in the election of President William McKinley.",
+          "McCormick learned politics by watching her father, and put those lessons to use fighting for causes such as women's suffrage and improved working conditions for women.",
+          "McCormick was instrumental in passing a partial suffrage law in Illinois in 1913, allowing women to vote in municipal and Presidential elections.",
+          "She also married two politicians, Senator Joseph Medill McCormick and Congressman Albert Gallatin Simms.",
+          "McCormick's endeavors were not limited to politics.",
+          "Throughout her life, she maintained an interest in agriculture.",
+          "She owned and operated ranches in Illinois, New Mexico, and Colorado.",
+          "She also owned several newspapers, founding the Rockford Consolidated Newspapers in Rockford, Illinois."
+        ]
+      ],
+      [
+        "Albert G. Simms",
+        [
+          "Albert Gallatin Simms (October 8, 1882 \u2013 December 29, 1964) was a United States Representative from New Mexico.",
+          "He was the husband of Ruth Hanna McCormick, who served as a United States Representative from Illinois.",
+          "He was born in Washington, Arkansas, where he attended private schools.",
+          "He attended the University of Arkansas at Fayetteville.",
+          "He moved to Monterrey, Mexico in 1906 and was employed as an accountant.",
+          "In 1912, he moved to Silver City, New Mexico.",
+          "He studied law, was admitted to the bar in 1915, and practiced law at Albuquerque, New Mexico until 1919.",
+          "Simms was a member of the city council 1920\u20131922.",
+          "He was also a member and chairman of the board of county commissioners of Bernalillo County, New Mexico 1920\u20131922.",
+          "He engaged in banking, serving as president of a national bank in Albuquerque, 1920\u20131924, and as president of a mortgage company in 1924.",
+          "He served as a member of the New Mexico House of Representatives 1925-1927 and was elected as a Republican to the Seventy-first Congress (March 4, 1929 \u2013 March 3, 1931).",
+          "He married the widowed Ruth Hanna McCormick, also a member of Congress at the time, in 1931.",
+          "He was an unsuccessful candidate for reelection in 1930 to the Seventy-second Congress due to a Democratic takeover.",
+          "The couple returned to New Mexico and established Los Poblanos, a successful farm and ranch.",
+          "After leaving Congress, he was member of the Republican National Committee 1932-1934 as well as a banker, farmer, and rancher.",
+          "He helped found Albuquerque Academy.",
+          "He died as a resident of Albuquerque, New Mexico in 1964 and was buried in Fairview Park Cemetery."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the first name of #Name?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "Albert G. Simms's father-in-law",
+    "ques_on_last_hop": "What is the last letter of the first name of the father of Ruth Hanna Mccormick?"
+  },
+  {
+    "_id": "7246ee5a0bb011ebab90acde48001122_0",
+    "question": "What is the first letter of the last name of Abu Mansur Fulad Sutun's paternal grandfather in lowercase?",
+    "answer": "a",
+    "previous_question": "Who is Abu Mansur Fulad Sutun's paternal grandfather?",
+    "previous_answer": "Sultan al-Dawla",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the father of Abu Mansur Fulad Sutun?",
+        "answer": "Abu Kalijar",
+        "paragraph_support_title": "Abu Mansur Fulad Sutun"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the father of Abu Kalijar?",
+        "answer": "Sultan al-Dawla",
+        "paragraph_support_title": "Abu Kalijar"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the last name of Sultan al-Dawla in lowercase?",
+        "answer": "a",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Sultan al-Dawla?",
+            "answer": "al-Dawla",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of al-Dawla?",
+            "answer": "a",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Abu Mansur Fulad Sutun",
+        [
+          "Abu Mansur Fulad Sutun (died 1062) was the last Buyid amir of Fars, ruling more or less continuously from 1048 until his death.",
+          "He was the son of Abu Kalijar."
+        ]
+      ],
+      [
+        "Abu Kalijar",
+        [
+          "Abu Kalijar Marzuban( died October 1048) was the Buyid amir of Fars( 1024 \u2013 1048), Kerman( 1028\u20131048) and Iraq( 1044 \u2013 1048).",
+          "He was the eldest son of Sultan al- Dawla."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the last name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "Abu Mansur Fulad Sutun's paternal grandfather",
+    "ques_on_last_hop": "What is the first letter of the last name of the father of Abu Kalijar in lowercase?"
+  },
+  {
+    "_id": "571c28120bdc11eba7f7acde48001122_0",
+    "question": "What is the first letter of the last name of the mother of the director of film La Cage Aux Folles 3: The Wedding in lowercase?",
+    "answer": "s",
+    "previous_question": "Who is the mother of the director of film La Cage Aux Folles 3: The Wedding?",
+    "previous_answer": "Ren\u00e9e Saint-Cyr",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the director of La Cage Aux Folles 3: The Wedding?",
+        "answer": "Georges Lautner",
+        "paragraph_support_title": "La Cage aux Folles 3: The Wedding"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the mother of Georges Lautner?",
+        "answer": "Ren\u00e9e Saint-Cyr",
+        "paragraph_support_title": "Georges Lautner"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the last name of Ren\u00e9e Saint-Cyr in lowercase?",
+        "answer": "s",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Ren\u00e9e Saint-Cyr?",
+            "answer": "Saint-Cyr",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of Saint-Cyr?",
+            "answer": "s",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "La Cage aux Folles 3: The Wedding",
+        [
+          "La Cage aux Folles 3:",
+          "The Wedding  is a 1985 comedy film and the third and final installment in the \"La Cage aux Folles\" series.",
+          "Unlike the first two films, which were directed by \u00c9douard Molinaro, this third installment is directed by Georges Lautner."
+        ]
+      ],
+      [
+        "Georges Lautner",
+        [
+          "Georges Lautner( 24 January 1926 \u2013 22 November 2013) was a French film director and screenwriter, known primarily for his comedies created in collaboration with screenwriter Michel Audiard.",
+          "Lautner's ventures into other genres were less successful though the thriller Le Professionnel starring Jean- Paul Belmondo was a big commercial hit in France in 1981.",
+          "He was born in Nice, the son of actress Ren\u00e9e Saint- Cyr."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the last name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the mother of the director of film La Cage Aux Folles 3: The Wedding",
+    "ques_on_last_hop": "What is the first letter of the last name of the mother of Georges Lautner in lowercase?"
+  },
+  {
+    "_id": "4e3802420bdd11eba7f7acde48001122_0",
+    "question": "What is the first letter of the last name of the child of the director of film Stella \u00cd Orlofi in lowercase?",
+    "answer": "a",
+    "previous_question": "Who is the child of the director of film Stella \u00cd Orlofi?",
+    "previous_answer": "S\u00f3lveig Arnarsd\u00f3ttir",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the director of Stella \u00cd Orlofi?",
+        "answer": "\u00de\u00f3rhildur \u00deorleifsd\u00f3ttir",
+        "paragraph_support_title": "Stella \u00ed orlofi"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the child of \u00de\u00f3rhildur \u00deorleifsd\u00f3ttir?",
+        "answer": "S\u00f3lveig Arnarsd\u00f3ttir",
+        "paragraph_support_title": "\u00de\u00f3rhildur \u00deorleifsd\u00f3ttir"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the last name of S\u00f3lveig Arnarsd\u00f3ttir in lowercase?",
+        "answer": "a",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of S\u00f3lveig Arnarsd\u00f3ttir?",
+            "answer": "Arnarsd\u00f3ttir",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of Arnarsd\u00f3ttir?",
+            "answer": "a",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "\u00de\u00f3rhildur \u00deorleifsd\u00f3ttir",
+        [
+          "\u00de\u00f3rhildur \u00deorleifsd\u00f3ttir( born 25 March 1945) is an Icelandic theater, opera, film and television director, actress, dancer, choreographer and politician.",
+          "She was the artistic director of the Reykjavik City Theatre from 1996 to 2000.",
+          "She was a member of Al\u00feingi from 1987 to 1991, representing The Women's List.",
+          "\u00de\u00f3rhildur was born in \u00cdsafj\u00f6r\u00f0ur.",
+          "She is married to Icelandic actor Arnar J\u00f3nsson.",
+          "Their daughter is the Icelandic actress S\u00f3lveig Arnarsd\u00f3ttir."
+        ]
+      ],
+      [
+        "Stella \u00ed orlofi",
+        [
+          "Stella \u00ed orlofi is a 1986 Icelandic comedy film directed by \u00de\u00f3rhildur \u00deorleifsd\u00f3ttir.",
+          "It has enjoyed enduring popularity in Iceland, and was followed up with the sequel Stella \u00ed frambo\u00f0i in 2002."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the last name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the child of the director of film Stella \u00cd Orlofi",
+    "ques_on_last_hop": "What is the first letter of the last name of the child of \u00de\u00f3rhildur \u00deorleifsd\u00f3ttir in lowercase?"
+  },
+  {
+    "_id": "7c5768260bdc11eba7f7acde48001122_0",
+    "question": "What is the first letter of the first name of the father of the composer of film Durval Discos in lowercase?",
+    "answer": "a",
+    "previous_question": "Who is the father of the composer of the film Durval Discos?",
+    "previous_answer": "Ant\u00f4nio Abujamra",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the composer of Durval Discos?",
+        "answer": "Andr\u00e9 Abujamra",
+        "paragraph_support_title": "Durval Discos"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the father of Andr\u00e9 Abujamra?",
+        "answer": "Ant\u00f4nio Abujamra",
+        "paragraph_support_title": "Andr\u00e9 Abujamra"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the first name of Ant\u00f4nio Abujamra in lowercase?",
+        "answer": "a",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Ant\u00f4nio Abujamra?",
+            "answer": "Ant\u00f4nio",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of Ant\u00f4nio?",
+            "answer": "a",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Durval Discos",
+        [
+          "Durval Discos is a 2002 Brazilian film by Anna Muylaert shot in Pinheiros, a borough of S\u00e3o Paulo.",
+          "The film is noticeable for its soundtrack made up of 1970s Brazilian music that reflects the protagonist's taste, as he is himself a hippie, as well as Andr\u00e9 Abujamra's original score, more present in the film's second, darker half.",
+          "The shift of mood from the first part to the second was advertised as life's A and B sides, a reference to the film's homage to LPs.",
+          "Abujamra makes a small comical appearance as the character Fat Marley and Brazilian rock singer Rita Lee also has a brief cameo as an eccentric customer who forgets to take the vinyl she has just bought.",
+          "Some of the records shown in the store include Caetano Veloso's white, signed 1969 album and Tim Maia's \"Racional\", a two-volume album highly sought in Brazil due to its cult status."
+        ]
+      ],
+      [
+        "Andr\u00e9 Abujamra",
+        [
+          "Andr\u00e9 Cibelli Abujamra (born May 15, 1965) is a Brazilian score composer, musician, singer, guitarist, actor, and comedian of Lebanese and Italian origin.",
+          "His father, Ant\u00f4nio Abujamra, was also an actor."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the first name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the father of the composer of film Durval Discos",
+    "ques_on_last_hop": "What is the first letter of the first name of the father of Andr\u00e9 Abujamra in lowercase?"
+  },
+  {
+    "_id": "d61d801e0bd911eba7f7acde48001122_0",
+    "question": "What is the first letter of the first name of the father of the director of film Little Joe (Film) in lowercase?",
+    "answer": "r",
+    "previous_question": "Who is the father of the director of Little Joe (Film)?",
+    "previous_answer": "Rudolf Hausner",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the director of Little Joe?",
+        "answer": "Jessica Hausner",
+        "paragraph_support_title": "Little Joe (film)"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the father of Jessica Hausner?",
+        "answer": "Rudolf Hausner",
+        "paragraph_support_title": "Jessica Hausner"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the first name of Rudolf Hausner in lowercase?",
+        "answer": "r",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Rudolf Hausner?",
+            "answer": "Rudolf",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of Rudolf?",
+            "answer": "r",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Little Joe (film)",
+        [
+          "Little Joe is a 2019 internationally co-produced drama film directed by Jessica Hausner.",
+          "It was selected to compete for the Palme d'Or at the 2019 Cannes Film Festival.",
+          "At Cannes, Emily Beecham won the award for Best Actress.",
+          "Beecham stars as Alice Woodard, a plant breeder and single mother who creates \"Little Joe\" a plant that gives its caretakers joy."
+        ]
+      ],
+      [
+        "Jessica Hausner",
+        [
+          "Jessica Hausner (born 6 October 1972) is an Austrian film director and screenwriter.",
+          "She received international attention in 2001 when her film \"Lovely Rita\", a portrait of a young girl who feels confined by family constraints, was screened in the Un Certain Regard section at the 2001 Cannes Film Festival.",
+          "Three years later she returned to Cannes with her film \"Hotel\".",
+          "Her 2014 film \"Amour Fou\" was selected to compete in the Un Certain Regard section at the 2014 Cannes Film Festival.",
+          "Jessica Hausner is the daughter of Viennese painter Rudolf Hausner, sister of costume designer Tanja Hausner and half sister of set designer and painter Xenia Hausner.",
+          "She studied at Filmacademy Vienna.",
+          "With fellow directors Barbara Albert and Antonin Svoboda and director of photography",
+          "Martin Gschlacht, she founded the Viennese film production company coop99 in 1999.",
+          "2017",
+          "she was appointed a member of the Academy of Motion Picture Arts and Sciences.",
+          "In 2002 she was a member of the jury at the 24th Moscow International Film Festival.",
+          "In 2016, she was a member of the jury for the Un Certain Regard section of the 2016 Cannes Film Festival."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the first name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the father of the director of film Little Joe (Film)",
+    "ques_on_last_hop": "What is the first letter of the first name of the father of Jessica Hausner in lowercase?"
+  },
+  {
+    "_id": "3a142e540baf11ebab90acde48001122_0",
+    "question": "What is the first letter of the first name of Eochaid Mac Fiachnai's paternal grandfather in lowercase?",
+    "answer": "\u00e1",
+    "previous_question": "Who is Eochaid Mac Fiachnai's paternal grandfather?",
+    "previous_answer": "\u00c1ed R\u00f3in",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the father of Eochaid Mac Fiachnai?",
+        "answer": "Fiachnae mac \u00c1edo R\u00f3in",
+        "paragraph_support_title": "Eochaid mac Fiachnai"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the father of Fiachnae Mac \u00c1edo R\u00f3in?",
+        "answer": "\u00c1ed R\u00f3in",
+        "paragraph_support_title": "Fiachnae mac \u00c1edo R\u00f3in"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the first name of \u00c1ed R\u00f3in in lowercase?",
+        "answer": "\u00e1",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of \u00c1ed R\u00f3in?",
+            "answer": "\u00c1ed",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of \u00c1ed?",
+            "answer": "\u00e1",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Fiachnae mac \u00c1edo R\u00f3in",
+        [
+          "Fiachnae mac \u00c1edo R\u00f3in (died 789) was a D\u00e1l Fiatach ruler of the over-kingdom of Ulaid in Ireland.",
+          "He reigned from 750 to 789.",
+          "He was the son of \u00c1ed R\u00f3in (died 735) and brother of Bressal mac \u00c1edo R\u00f3in (died 750), previous kings.",
+          "This family had their base in modern-day County Down, Northern Ireland."
+        ]
+      ],
+      [
+        "Eochaid mac Fiachnai",
+        [
+          "Eochaid mac Fiachnai (died 810) was a Dal Fiatach king of Ulaid, which is now Ulster, Ireland.",
+          "He was the son of Fiachnae mac \u00c1edo R\u00f3in (died 789), a previous king.",
+          "He ruled from 790 to 810.",
+          "Eochaid first appears in the annals in 776.",
+          "In that year he gave his support to Tommaltach mac Indrechtaig (died 790) in a civil war among the rival Dal nAraide family.",
+          "They defeated and slew the incumbent king Cin\u00e1ed Ciarrge mac Cathussaig and his ally, D\u00fangal king of the U\u00ed Tuirtri (an Airgialla tribe west of Lough Neagh) at the Battle of Drong.",
+          "His father had restored the fortunes of the Dal Fiatach dynasty but upon his death a succession struggle broke out.",
+          "Eochaid was challenged for the kingship by his kinsmen Tommaltach mac Cathail.",
+          "Tommaltach was the great grandson of \u00d3engus, son of M\u00e1el Cobo mac Fiachnai (died 647) king of Ulaid and this branch (called the Cen\u00e9l n\u00d3engusa) threatened to be excluded from the throne.",
+          "Tommaltach was defeated and slain in battle by Eochaid.",
+          "However Tommlatach's branch of the family remained based in Leth Cathail (Lecale)-\"Cathal's Half\" in southern modern County Down (also known as Mag Inis).",
+          "Tommaltach mac Indrechtaig of Dal nAraide had profited by the civil war among the Dal Fiatach to acquire the throne of all Ulaid.",
+          "He died the next year in 790 and in that year the annals also record a slaughter of the Dal Fiatach by the D\u00e1l nAraidi.",
+          "Whether this occurred before or after Tommaltach's death is uncertain.",
+          "Eochaid became King of Ulaid in 790.",
+          "In 801",
+          "The Ulaid went to war with the U\u00ed Echach Cobo in the west part of county Down, probably to impose their authority.",
+          "The Ulaid were victorious and slew the King of Coba, Eochu mac Aililla.",
+          "On the side of the Ulaid, Cairell mac Cathail of the Leth Cathail branch was slain.",
+          "In 809 the high king \u00c1ed Oirdnide campaigned against Ulaid and defeated them ravaging from the Bann to Strangford Lough.",
+          "The motive for this conflict was apparently the killing of D\u00fanch\u00fa, superior of Tulach L\u00e9is (Tullylisk, County Down), by the Ulaid.",
+          "A civil war then followed in which Eochaid was defeated by his brother Cairell mac Fiachnai (died 819).",
+          "The annals report that Eochaid escaped from this battle and historians place his death in 810.",
+          "Eochaid may be associated with the establishment of D\u00fan Echdach (Duneight) which became the royal seat of the Dal Fiatach as they shifted their power northwards by the 9th century from their old royal seat at Downpatrick.",
+          "The sons of Eochaid included Muiredach mac Eochada (died 839), a King of Ulaid, and \u00c1ed mac Eochada who fathered three kings of Ulaid."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the first name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "Eochaid Mac Fiachnai's paternal grandfather",
+    "ques_on_last_hop": "What is the first letter of the first name of the father of Fiachnae Mac \u00c1edo R\u00f3in in lowercase?"
+  },
+  {
+    "_id": "2hop__668407_683671_0",
+    "question": "What is the last letter of the last name of the father of Empress Wang's husband?",
+    "answer": "i",
+    "previous_question": "Who is the father of Empress Wang's husband?",
+    "previous_answer": "Yang Xingmi",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the spouse of Empress Wang?",
+        "answer": "Yang Pu",
+        "paragraph_support_title": "Empress Wang (Yang Pu)"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the father of Yang Pu?",
+        "answer": "Yang Xingmi",
+        "paragraph_support_title": "Empress Dowager Wang (Rui)"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the last name of Yang Xingmi?",
+        "answer": "i",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Yang Xingmi?",
+            "answer": "Xingmi",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Xingmi?",
+            "answer": "i",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Empress Dowager Wang (Rui)",
+        [
+          "Empress Dowager Wang (\u738b\u592a\u540e, personal name unknown) (died 928) was a concubine of the late-Tang Dynasty warlord Yang Xingmi and the mother of his son Yang Pu, the final ruler and the only emperor of the Wu state founded upon the territory that Yang Xingmi took. During Yang Pu's reign as emperor, she was honored as empress dowager."
+        ]
+      ],
+      [
+        "Empress Wang (Yang Pu)",
+        [
+          "Empress Wang (\u738b\u7687\u540e, personal name unknown), known as Empress Rang (\u8b93\u7687\u540e, \"empress of the emperor who yielded\") during Southern Tang, was the wife and empress of Yang Pu (Emperor Rui), the final ruler of the Chinese Five Dynasties and Ten Kingdoms period state Wu. As he was the only ruler who claimed the title of emperor, she was the only person to carry the title of empress during Wu."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the last name of #Name?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "the father of Empress Wang's husband",
+    "ques_on_last_hop": "What is the last letter of the last name of the father of Yang Pu?"
+  },
+  {
+    "_id": "2hop__511296_577502_0",
+    "question": "What is the first letter of the last name of the spouse of the actor from Terminator in lowercase?",
+    "answer": "s",
+    "previous_question": "Who married the actor from Terminator?",
+    "previous_answer": "Maria Shriver",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who is the performer of Terminator?",
+        "answer": "Arnold Schwarzenegger",
+        "paragraph_support_title": "Terminator (character)"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the spouse of Arnold Schwarzenegger?",
+        "answer": "Maria Shriver",
+        "paragraph_support_title": "Chr\u00e9tien DuBois"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the last name of Maria Shriver in lowercase?",
+        "answer": "s",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Maria Shriver?",
+            "answer": "Shriver",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of Shriver?",
+            "answer": "s",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Terminator (character)",
+        [
+          "Cyberdyne Systems Series T-800 / T-850 Model 101, or \"The Terminator\", is a fictional character from the \"Terminator\" franchise portrayed by both Arnold Schwarzenegger and numerous actor stand-ins digitally overlaid with Schwarzenegger's likeness. The Terminator itself is part of a series of machines created by Skynet for infiltration-based assassination missions, and while an android for its appearance resembling a human, it is described as a cybernetic organism consisting of living tissue over a robotic endoskeleton."
+        ]
+      ],
+      [
+        "Chr\u00e9tien DuBois",
+        [
+          "Several prominent Americans figure among Chretien du Bois' descendants, including former governor of Massachusetts William Floyd Weld, actor Marlon Brando, Jr., painter Mary Cassatt, journalist Maria Shriver (wife of California governor Arnold Schwarzenegger), Samuel Walton, General George Smith Patton III and film director George Lucas. W. E. B. Du Bois is also said to be a descendant."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the last name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the spouse of the actor from Terminator",
+    "ques_on_last_hop": "What is the first letter of the last name of the spouse of Arnold Schwarzenegger in lowercase?"
+  },
+  {
+    "_id": "2hop__92051_827343_0",
+    "question": "What is the last letter of the first name of the sibling of the actress who played Susan Walker in Miracle on 34th street?",
+    "answer": "a",
+    "previous_question": "Who is the sibling of the actress who played Susan Walker in Miracle on 34th street?",
+    "previous_answer": "Lana Wood",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "who played susan walker in miracle on 34th street",
+        "answer": "Natalie Wood",
+        "paragraph_support_title": "Miracle on 34th Street"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the sibling of Natalie Wood?",
+        "answer": "Lana Wood",
+        "paragraph_support_title": "Five Finger Exercise"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the last letter of the first name of Lana Wood?",
+        "answer": "a",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Lana Wood?",
+            "answer": "Lana",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the last letter of Lana?",
+            "answer": "a",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Five Finger Exercise",
+        [
+          "The film stars Rosalind Russell, Jack Hawkins, Richard Beymer, Maximilian Schell, and Annette Gorman, with an early screen appearance from Lana Wood, the sister of Natalie Wood."
+        ]
+      ],
+      [
+        "Miracle on 34th Street",
+        [
+          "Maureen O'Hara as Doris Walker John Payne as Frederick M. ``Fred ''Gailey Edmund Gwenn as Kris Kringle Gene Lockhart as The Hon. Henry X. Harper Natalie Wood as Susan Walker Porter Hall as Granville Sawyer William Frawley as Charlie Halloran Jerome Cowan as District Attorney Thomas Mara Philip Tonge as Julian Shellhammer"
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the last letter of the first name of #Name?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the last letter of #Ans1?"
+    ],
+    "cutted_question": "the sibling of the actress who played Susan Walker in Miracle on 34th street",
+    "ques_on_last_hop": "What is the last letter of the first name of the sibling of Natalie Wood?"
+  },
+  {
+    "_id": "2hop__30905_213732_0",
+    "question": "What is the first letter of the first name of the child of the person who sponsored the resolution to reopen trade with Vietnam, along with Kerry in lowercase?",
+    "answer": "m",
+    "previous_question": "Who is the child of the person who sponsored the resolution to reopen trade with Vietnam, along with Kerry?",
+    "previous_answer": "Meghan McCain",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "Who sponsored the resolution to reopen trade with Vietnam, along with Kerry?",
+        "answer": "John McCain",
+        "paragraph_support_title": "John Kerry"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the child of John McCain?",
+        "answer": "Meghan McCain",
+        "paragraph_support_title": "Dirty Sexy Politics"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the first name of Meghan McCain in lowercase?",
+        "answer": "m",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Meghan McCain?",
+            "answer": "Meghan",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of Meghan?",
+            "answer": "m",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Dirty Sexy Politics",
+        [
+          "Dirty Sexy Politics is a 2010 political memoir written by Meghan McCain, the daughter of Republican Senator John McCain, about the 2008 United States presidential election."
+        ]
+      ],
+      [
+        "John Kerry",
+        [
+          "Kerry chaired the Senate Select Committee on POW/MIA Affairs from 1991 to 1993. The committee's report, which Kerry endorsed, stated there was \"no compelling evidence that proves that any American remains alive in captivity in Southeast Asia.\" In 1994 the Senate passed a resolution, sponsored by Kerry and fellow Vietnam veteran John McCain, that called for an end to the existing trade embargo against Vietnam; it was intended to pave the way for normalization. In 1995, President Bill Clinton normalized diplomatic relations with the country of Vietnam."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the first name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the child of the person who sponsored the resolution to reopen trade with Vietnam, along with Kerry",
+    "ques_on_last_hop": "What is the first letter of the first name of the child of John McCain in lowercase?"
+  },
+  {
+    "_id": "2hop__58939_213732_0",
+    "question": "What is the first letter of the last name of the child of Obama's opponent in his first election in lowercase?",
+    "answer": "m",
+    "previous_question": "Who is the child of Obama's opponent in his first election?",
+    "previous_answer": "Meghan McCain",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "who ran against obama in his first election",
+        "answer": "John McCain",
+        "paragraph_support_title": "2008 United States presidential election"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the child of John McCain?",
+        "answer": "Meghan McCain",
+        "paragraph_support_title": "Dirty Sexy Politics"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the last name of Meghan McCain in lowercase?",
+        "answer": "m",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the last name of Meghan McCain?",
+            "answer": "McCain",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of McCain?",
+            "answer": "m",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "Dirty Sexy Politics",
+        [
+          "Dirty Sexy Politics is a 2010 political memoir written by Meghan McCain, the daughter of Republican Senator John McCain, about the 2008 United States presidential election."
+        ]
+      ],
+      [
+        "2008 United States presidential election",
+        [
+          "The United States presidential election of 2008 was the 56th quadrennial presidential election. It was held on Tuesday, November 4, 2008. The Democratic ticket of Barack Obama, a Senator from Illinois, and Joe Biden, a long - time Senator from Delaware, defeated the Republican ticket of Senator John McCain of Arizona and Governor Sarah Palin of Alaska. Obama became the first African American ever to be elected as president."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the last name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the last name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the child of Obama's opponent in his first election",
+    "ques_on_last_hop": "What is the first letter of the last name of the child of John McCain in lowercase?"
+  },
+  {
+    "_id": "2hop__71900_712629_0",
+    "question": "What is the first letter of the first name of the spouse of the longest reigning British monarch in lowercase?",
+    "answer": "p",
+    "previous_question": "Who is the spouse of the longest reigning British monarch?",
+    "previous_answer": "Philip Mountbatten",
+    "question_decomposition": [
+      {
+        "sub_id": "1",
+        "question": "who has been the longest reigning british monarch",
+        "answer": "Elizabeth II",
+        "paragraph_support_title": "List of monarchs in Britain by length of reign"
+      },
+      {
+        "sub_id": "2",
+        "question": "Who is the spouse of Elizabeth II?",
+        "answer": "Philip Mountbatten",
+        "paragraph_support_title": "Wedding dress of Princess Elizabeth"
+      },
+      {
+        "sub_id": "3",
+        "question": "What is the first letter of the first name of Philip Mountbatten in lowercase?",
+        "answer": "p",
+        "paragraph_support_title": "",
+        "details": [
+          {
+            "sub_id": "3_1",
+            "question": "What is the first name of Philip Mountbatten?",
+            "answer": "Philip",
+            "paragraph_support_title": ""
+          },
+          {
+            "sub_id": "3_2",
+            "question": "What is the first letter of Philip?",
+            "answer": "p",
+            "paragraph_support_title": ""
+          }
+        ]
+      }
+    ],
+    "context": [
+      [
+        "List of monarchs in Britain by length of reign",
+        [
+          "Queen Elizabeth II became the longest - reigning British monarch on 9 September 2015 when she surpassed the reign of her great - great - grandmother Victoria. On 6 February 2017 she became the first British monarch to celebrate a sapphire jubilee, commemorating 65 years on the throne."
+        ]
+      ],
+      [
+        "Wedding dress of Princess Elizabeth",
+        [
+          "The wedding dress of Princess Elizabeth was worn by the future Queen Elizabeth II at her wedding to Philip Mountbatten, Duke of Edinburgh on 20 November 1947 in Westminster Abbey. Given the rationing of clothing at the time, she still had to purchase the material using ration coupons. The dress was designed by Norman Hartnell. Hartnell's signature was said to be embroidery, and he enjoyed \"working with soft, floating fabrics, particularly tulle and chiffon, and with plain, lustrous silks\". The dress was made of soft Damascus Prokar, with a high neckline, tailored bodice and a short train."
+        ]
+      ]
+    ],
+    "answer_type": "letter",
+    "previous_answer_type": "person",
+    "no_of_hops": 2,
+    "reasoning_type": "Symbolic, Commonsense",
+    "pattern": "What is the first letter of the first name of #Name in lowercase?",
+    "subquestion_patterns": [
+      "What is the first name of #Name?",
+      "What is the first letter of #Ans1?"
+    ],
+    "cutted_question": "the spouse of the longest reigning British monarch",
+    "ques_on_last_hop": "What is the first letter of the first name of the spouse of Elizabeth II in lowercase?"
+  }
+]
